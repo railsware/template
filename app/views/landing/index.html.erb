@@ -1,0 +1,10 @@
+<h1>Landing page</h1>
+
+<% unless current_user %>
+<%= link_to 'sign up', new_user_path %> or
+<%= link_to 'login', new_user_session_path %> or
+<%= link_to 'admin login', new_admin_user_session_path %>
+<% else %>
+  Your login is: <%= current_user.login %><br />
+  <%= link_to 'logout', user_session_path, :method => :delete %>
+<% end %>

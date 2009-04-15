@@ -1,0 +1,1354 @@
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:06:45) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:06:45) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:06:45) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:07:35) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:07:35) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:07:35) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:08:41) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:08:41) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:08:41) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:09:46) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:09:46) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:09:46) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:10:02) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:10:02) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:10:02) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:10:56) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:10:56) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:10:57) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:11:13) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:11:13) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:11:13) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:14:45) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:14:45) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:14:45) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:14:58) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:14:58) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:14:58) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:16:18) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:16:18) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:16:18) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:16:31) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:16:31) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:16:31) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:16:46) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:16:46) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:16:46) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:19:57) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:19:57) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:19:57) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:21:17) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:21:17) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:21:17) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:24:59) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:24:59) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:24:59) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '6cc836f36187e4d94e9c94b7bb4d38a9556f55ecb25013e65c53dcc6ffa57ab8fbf51a8c71d1ba0f1d1f4d12114c23329ee5df7895c0b227fa5e7384065dcbb5') LIMIT 1[0m
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'ffb2e12ba3e2fbea90b372288dbde745c9b2fb8f3b7cd4f31e968a345f86d8230c2ce9b9f5e28a953f8a213a1fbab8fd97e317fd54de970233bd4561a7328fda') LIMIT 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:26:31) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:26:31) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:26:31) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '95d488a260dbafc3651ca152581eb16c9e2acc509380a8c85603db5b3575b2658ddb1756de453abd0c7a681e17f30e5fb34b7067c68d43a7745ba1ed2ab50e2b') LIMIT 1[0m
+  [4;35;1mUser Create (0.9ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:26:32', 'cbefdca70569e6abcd473d90e71392c2dbcd4f870b96718b5596351989f1ee23f90af88a367d995b91d29ac3ce5a2805be87ea927bceb6b6944523eac1ac24fc', '2009-04-02 00:26:32', '78b295a41a56a19e1bb07fd69137a207ed954fdd23bab9d72100778d281a1f3f1b2f9e54fbc64e1c096612f9f81c136c10162faa20a5618d02bd450b4bf17f2b', '95d488a260dbafc3651ca152581eb16c9e2acc509380a8c85603db5b3575b2658ddb1756de453abd0c7a681e17f30e5fb34b7067c68d43a7745ba1ed2ab50e2b', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '95d488a260dbafc3651ca152581eb16c9e2acc509380a8c85603db5b3575b2658ddb1756de453abd0c7a681e17f30e5fb34b7067c68d43a7745ba1ed2ab50e2b', "updated_at" = '2009-04-02 00:26:32', "created_at" = '2009-04-02 00:26:32', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '78b295a41a56a19e1bb07fd69137a207ed954fdd23bab9d72100778d281a1f3f1b2f9e54fbc64e1c096612f9f81c136c10162faa20a5618d02bd450b4bf17f2b', "crypted_password" = 'cbefdca70569e6abcd473d90e71392c2dbcd4f870b96718b5596351989f1ee23f90af88a367d995b91d29ac3ce5a2805be87ea927bceb6b6944523eac1ac24fc' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:26:32) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 2) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'b2f853f596672dc5ed35894c6fda64d1805e2b7caec76e3eb41348b504731f192444f32927fa0e2257cc2f8504430ea074188ed66ae02ba60256fd49058cd9d5') LIMIT 1[0m
+  [4;36;1mUser Create (0.5ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:26:32', '5e16acb0a929dd1a33fcd89ec6d10db78441a78a3655f8aaff6b6e976c386518909eaa7fff28e442f52c1d13a164e2f2522cc6371498c7b265e576ccdd3f0aa9', '2009-04-02 00:26:32', 'd36de1a4d90c86d023d1ff2e4cc23bf918fd66ebdd37fbe5445fa72bb2dd25ee5becd239ee24e36ca8b44b9f34700e5f020d99b30282228d00ee1d42395948f9', 'b2f853f596672dc5ed35894c6fda64d1805e2b7caec76e3eb41348b504731f192444f32927fa0e2257cc2f8504430ea074188ed66ae02ba60256fd49058cd9d5', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = 'b2f853f596672dc5ed35894c6fda64d1805e2b7caec76e3eb41348b504731f192444f32927fa0e2257cc2f8504430ea074188ed66ae02ba60256fd49058cd9d5', "updated_at" = '2009-04-02 00:26:32', "created_at" = '2009-04-02 00:26:32', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = 'd36de1a4d90c86d023d1ff2e4cc23bf918fd66ebdd37fbe5445fa72bb2dd25ee5becd239ee24e36ca8b44b9f34700e5f020d99b30282228d00ee1d42395948f9', "crypted_password" = '5e16acb0a929dd1a33fcd89ec6d10db78441a78a3655f8aaff6b6e976c386518909eaa7fff28e442f52c1d13a164e2f2522cc6371498c7b265e576ccdd3f0aa9' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:26:32) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:29:48) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:29:48) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:29:48) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'b740b62ca10942c3192e0f47d2eef24b8fea1208e0a88e34d336ef1be01d516dddf2e093ace33bb775ca2404b250ec16ed2a185e507ba7d65590c2b7dafeaff4') LIMIT 1[0m
+  [4;35;1mUser Create (0.7ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:29:48', 'aab82f80fb1d60ca308c2add8c00cf530d4714306c16bed90a9ef7c8996e94c0b6419139564f01fda3a8630db3b974bc15390bfc2de92059e153fa3103813dd6', '2009-04-02 00:29:48', '1f3da207e9f1c3ebb6a03bc9b6e6d6f1f0a3d96aab371f9951251ead80e654361bd2eee07e99fe4eacb36d4c7508bc4d0ca8da66cf86ab86a62e124948a2a2fd', 'b740b62ca10942c3192e0f47d2eef24b8fea1208e0a88e34d336ef1be01d516dddf2e093ace33bb775ca2404b250ec16ed2a185e507ba7d65590c2b7dafeaff4', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = 'b740b62ca10942c3192e0f47d2eef24b8fea1208e0a88e34d336ef1be01d516dddf2e093ace33bb775ca2404b250ec16ed2a185e507ba7d65590c2b7dafeaff4', "updated_at" = '2009-04-02 00:29:48', "created_at" = '2009-04-02 00:29:48', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '1f3da207e9f1c3ebb6a03bc9b6e6d6f1f0a3d96aab371f9951251ead80e654361bd2eee07e99fe4eacb36d4c7508bc4d0ca8da66cf86ab86a62e124948a2a2fd', "crypted_password" = 'aab82f80fb1d60ca308c2add8c00cf530d4714306c16bed90a9ef7c8996e94c0b6419139564f01fda3a8630db3b974bc15390bfc2de92059e153fa3103813dd6' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:29:48) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (1.4ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '532aad2c95e7aaf44bd50df63862bdbff23e53cf15069163f67be013f8ce39d75a66695ab47b5494484491afcc3ad23aab2ee9ae64260083373dc051a3e2cb97') LIMIT 1[0m
+  [4;36;1mUser Create (0.4ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:29:48', '9fe4d04f44311df95a86a13db21c1d3f6e71b33aec744a2e6c9a98e1aa13283f96bc8cebc9206f9d1bb4d23d0a76b85aafc5aa2fd2562fdd16a065fe64d22cf7', '2009-04-02 00:29:48', '22706e753a7820177e08001e2a7e10409dfc3e254164ceddc490bed453e79319fd8efe86ada4a2ae36801a93c209d8eaec62d15fd27a03c5a674b5b7c93cc6da', '532aad2c95e7aaf44bd50df63862bdbff23e53cf15069163f67be013f8ce39d75a66695ab47b5494484491afcc3ad23aab2ee9ae64260083373dc051a3e2cb97', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '532aad2c95e7aaf44bd50df63862bdbff23e53cf15069163f67be013f8ce39d75a66695ab47b5494484491afcc3ad23aab2ee9ae64260083373dc051a3e2cb97', "updated_at" = '2009-04-02 00:29:48', "created_at" = '2009-04-02 00:29:48', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '22706e753a7820177e08001e2a7e10409dfc3e254164ceddc490bed453e79319fd8efe86ada4a2ae36801a93c209d8eaec62d15fd27a03c5a674b5b7c93cc6da', "crypted_password" = '9fe4d04f44311df95a86a13db21c1d3f6e71b33aec744a2e6c9a98e1aa13283f96bc8cebc9206f9d1bb4d23d0a76b85aafc5aa2fd2562fdd16a065fe64d22cf7' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:29:48) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 2) | 302 Found [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:30:44) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:30:44) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:30:44) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'abcb2ecc0acc08a7a9d7b793b723ee820be321eb861506d62ad75f055bf5f48986a1f8380ff7b846718111888f222673e0fda454b0080f72b302ae44a43f3766') LIMIT 1[0m
+  [4;35;1mUser Create (0.8ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:30:44', '546896570972cb29df633b769358fd0c06f7961646f58d56d5c75da26b8fff8d07bc3a8c5c2ed7db89a295ab14416b843bf2bc73d5a4d02ca253d74f0b61354f', '2009-04-02 00:30:44', '96b08100e5f0f31b4668b8d48d5fb1ac8e1683a79120e74a2fcaa6fc850019ac967991ff15e3f39348a26d53a69986465739ea449b629507cf469153de372827', 'abcb2ecc0acc08a7a9d7b793b723ee820be321eb861506d62ad75f055bf5f48986a1f8380ff7b846718111888f222673e0fda454b0080f72b302ae44a43f3766', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = 'abcb2ecc0acc08a7a9d7b793b723ee820be321eb861506d62ad75f055bf5f48986a1f8380ff7b846718111888f222673e0fda454b0080f72b302ae44a43f3766', "updated_at" = '2009-04-02 00:30:44', "created_at" = '2009-04-02 00:30:44', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '96b08100e5f0f31b4668b8d48d5fb1ac8e1683a79120e74a2fcaa6fc850019ac967991ff15e3f39348a26d53a69986465739ea449b629507cf469153de372827', "crypted_password" = '546896570972cb29df633b769358fd0c06f7961646f58d56d5c75da26b8fff8d07bc3a8c5c2ed7db89a295ab14416b843bf2bc73d5a4d02ca253d74f0b61354f' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:30:44) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '91752b3cb75df2e9092351ba23f3b8ac29a63275d254bb1d474f909c17470d432a529805f2c07dbf29fb915aa8b57517a3f18e5beeee9f9f7460cc1e5c7aa65a') LIMIT 1[0m
+  [4;36;1mUser Create (1.8ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:30:44', 'f7d25da86d87ab901a53fed1d37f4c4a70e22488edc3753182a97d7ced915ee67feeb703e27bc00a9347d0e6723bb494c87d7065883a11da2628466a38a43eec', '2009-04-02 00:30:44', '3079a9445e96241a66638decbd6d88fe292edcc952dc492b9d195d1b04e2607a1957ea30a599dd4c3281664cf39e92eadb389ad4305b23a95a6be06be7e3be2f', '91752b3cb75df2e9092351ba23f3b8ac29a63275d254bb1d474f909c17470d432a529805f2c07dbf29fb915aa8b57517a3f18e5beeee9f9f7460cc1e5c7aa65a', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '91752b3cb75df2e9092351ba23f3b8ac29a63275d254bb1d474f909c17470d432a529805f2c07dbf29fb915aa8b57517a3f18e5beeee9f9f7460cc1e5c7aa65a', "updated_at" = '2009-04-02 00:30:44', "created_at" = '2009-04-02 00:30:44', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '3079a9445e96241a66638decbd6d88fe292edcc952dc492b9d195d1b04e2607a1957ea30a599dd4c3281664cf39e92eadb389ad4305b23a95a6be06be7e3be2f', "crypted_password" = 'f7d25da86d87ab901a53fed1d37f4c4a70e22488edc3753182a97d7ced915ee67feeb703e27bc00a9347d0e6723bb494c87d7065883a11da2628466a38a43eec' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:30:44) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 2) | 302 Found [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:31:47) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:31:47) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:31:47) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'b786da43a08691e8562f3783cd24625101d4950d3e7383535444cb77ae8080785934dcd5d5beed5644c834d871a8448f8ab7d457b7d56363fdc542d59a1f2a6a') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:31:47', 'f8fae0acbe8701cd02854c3e63e530e3a0d8b538de8a2a548e0375ad400b5ada60177f1ed5a58d80f6ee6c7ca78f15a85dc155015b650ba05b0717ec0bec05f2', '2009-04-02 00:31:47', '3e7e12e0baf9393f65f76c671ab4b30ae2fd929cd1bbffe9935999ff9a6d759dc90a80db49a9aec8ba1453486dc31e1fef0dbe3c7a95d6b3e3eaa99575cea33f', 'b786da43a08691e8562f3783cd24625101d4950d3e7383535444cb77ae8080785934dcd5d5beed5644c834d871a8448f8ab7d457b7d56363fdc542d59a1f2a6a', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = 'b786da43a08691e8562f3783cd24625101d4950d3e7383535444cb77ae8080785934dcd5d5beed5644c834d871a8448f8ab7d457b7d56363fdc542d59a1f2a6a', "updated_at" = '2009-04-02 00:31:47', "created_at" = '2009-04-02 00:31:47', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '3e7e12e0baf9393f65f76c671ab4b30ae2fd929cd1bbffe9935999ff9a6d759dc90a80db49a9aec8ba1453486dc31e1fef0dbe3c7a95d6b3e3eaa99575cea33f', "crypted_password" = 'f8fae0acbe8701cd02854c3e63e530e3a0d8b538de8a2a548e0375ad400b5ada60177f1ed5a58d80f6ee6c7ca78f15a85dc155015b650ba05b0717ec0bec05f2' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:31:47) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '904bd4e14507deb267f5cfa24510e5614cc956d39e405a87ac6d7612d1899aada87776168d00e3bf36585b1b49d29874a43c0a4d3542a26a32d991142b6464fb') LIMIT 1[0m
+  [4;36;1mUser Create (0.4ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:31:47', '74ff407fc789efa397d74eb0031ef08934ee5241294f2f689838876ac1a332c56b19dce85d21a6573315466b603c90f761f2b131d2db8d044b857522ac34d202', '2009-04-02 00:31:47', 'e84aec316aa62b13bfc110601dff1fce7c916e126d50125c4bfdfb06bbf9207afa6ef5b765edfa8c20d35f7898aa8099a36d4c37249aa87640334b284136e14b', '904bd4e14507deb267f5cfa24510e5614cc956d39e405a87ac6d7612d1899aada87776168d00e3bf36585b1b49d29874a43c0a4d3542a26a32d991142b6464fb', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '904bd4e14507deb267f5cfa24510e5614cc956d39e405a87ac6d7612d1899aada87776168d00e3bf36585b1b49d29874a43c0a4d3542a26a32d991142b6464fb', "updated_at" = '2009-04-02 00:31:47', "created_at" = '2009-04-02 00:31:47', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = 'e84aec316aa62b13bfc110601dff1fce7c916e126d50125c4bfdfb06bbf9207afa6ef5b765edfa8c20d35f7898aa8099a36d4c37249aa87640334b284136e14b', "crypted_password" = '74ff407fc789efa397d74eb0031ef08934ee5241294f2f689838876ac1a332c56b19dce85d21a6573315466b603c90f761f2b131d2db8d044b857522ac34d202' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:31:47) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:34:21) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:34:21) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:34:21) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '66da676d29d19a2320f95b97fc7378ca31a465fb096fb4973c4723b7680be5180589994efbcb7b15da721fd58e71836c7653c55768aa274ea45d351ec6b9bc53') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:34:21', '421f08923c3960ffc2c287d8b914919fb354c3ba8625708bd7360e9c88cb5e0b3628012e14eb260564c380526523f67f69d1894ae38ba914e2ffc64ea4a5af89', '2009-04-02 00:34:21', '26e3fb19b57d9c594a42b5e9be5c039c974aea83309535e94eb45e3399e0f616954974df7cb56a7a9f5414917b5899b869d53295faeec3ac5e673cf959c720ea', '66da676d29d19a2320f95b97fc7378ca31a465fb096fb4973c4723b7680be5180589994efbcb7b15da721fd58e71836c7653c55768aa274ea45d351ec6b9bc53', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '66da676d29d19a2320f95b97fc7378ca31a465fb096fb4973c4723b7680be5180589994efbcb7b15da721fd58e71836c7653c55768aa274ea45d351ec6b9bc53', "updated_at" = '2009-04-02 00:34:21', "created_at" = '2009-04-02 00:34:21', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '26e3fb19b57d9c594a42b5e9be5c039c974aea83309535e94eb45e3399e0f616954974df7cb56a7a9f5414917b5899b869d53295faeec3ac5e673cf959c720ea', "crypted_password" = '421f08923c3960ffc2c287d8b914919fb354c3ba8625708bd7360e9c88cb5e0b3628012e14eb260564c380526523f67f69d1894ae38ba914e2ffc64ea4a5af89' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:34:21) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'f238c43b71dbbb322f57056a29ac590cc538e36dbc6301a71921ba054970ecc5bc73d0cac1628a62f0c8cd840f592d5b9031d3bab073ae2355883f7a5c84612d') LIMIT 1[0m
+  [4;36;1mUser Create (0.8ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:34:21', 'a87e393f72cb3f6de310d2d3efb779c7868d0030000cbabd7936c5b55708c67bef86f4b9cceb5e738ee1b78d57c6fcf7c855fd66a40400c25d9e546db0cea94b', '2009-04-02 00:34:21', 'c72b3510148de20b271561cbc8b100eedd0f3dc2e6dfeaa233a7b87d3774c356447159ac4f83a951819ed678f0068d5b0fe68786ebb90651bee33c22e497b255', 'f238c43b71dbbb322f57056a29ac590cc538e36dbc6301a71921ba054970ecc5bc73d0cac1628a62f0c8cd840f592d5b9031d3bab073ae2355883f7a5c84612d', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = 'f238c43b71dbbb322f57056a29ac590cc538e36dbc6301a71921ba054970ecc5bc73d0cac1628a62f0c8cd840f592d5b9031d3bab073ae2355883f7a5c84612d', "updated_at" = '2009-04-02 00:34:21', "created_at" = '2009-04-02 00:34:21', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = 'c72b3510148de20b271561cbc8b100eedd0f3dc2e6dfeaa233a7b87d3774c356447159ac4f83a951819ed678f0068d5b0fe68786ebb90651bee33c22e497b255', "crypted_password" = 'a87e393f72cb3f6de310d2d3efb779c7868d0030000cbabd7936c5b55708c67bef86f4b9cceb5e738ee1b78d57c6fcf7c855fd66a40400c25d9e546db0cea94b' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:34:21) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_3') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_3@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '7be52a7d8310c4df9c7ab77185437b368680267d87f16e64d7d6259165187009ff3793eea5675a2afced04ddbc4cfca8e915684e1ea7221e91723c97e71065d9') LIMIT 1[0m
+  [4;35;1mUser Create (0.3ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:34:22', 'f648c1794daa6c9dd9e5fd8e93402b73a4799bda6d21c40f36f54bd417c5fa14a41c7a2d21740f82ca0800c889a0b3b255bc289c36d75af5b1b582eb04fa42fb', '2009-04-02 00:34:22', '090af53fe77c266b3e78e7e3951117d72eb53cbe1bd1e49d7f5958e89f70a5da84cde082291b1ff3f539ed1a55098c780bd780df089cf1be333911aa5604bf00', '7be52a7d8310c4df9c7ab77185437b368680267d87f16e64d7d6259165187009ff3793eea5675a2afced04ddbc4cfca8e915684e1ea7221e91723c97e71065d9', 'user_3', 'bangbang_3@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '7be52a7d8310c4df9c7ab77185437b368680267d87f16e64d7d6259165187009ff3793eea5675a2afced04ddbc4cfca8e915684e1ea7221e91723c97e71065d9', "updated_at" = '2009-04-02 00:34:22', "created_at" = '2009-04-02 00:34:22', "email" = 'bangbang_3@example.com', "login" = 'user_3', "password_salt" = '090af53fe77c266b3e78e7e3951117d72eb53cbe1bd1e49d7f5958e89f70a5da84cde082291b1ff3f539ed1a55098c780bd780df089cf1be333911aa5604bf00', "crypted_password" = 'f648c1794daa6c9dd9e5fd8e93402b73a4799bda6d21c40f36f54bd417c5fa14a41c7a2d21740f82ca0800c889a0b3b255bc289c36d75af5b1b582eb04fa42fb' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:34:22) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session]
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_4') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_4@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'd7310cd5c5405e2a696ff1e3c5d8a4a5dd98e3de6aeed16d4f6e4ff9eb3fd4a10c23a34871f76cb994577e46d4797eab40b15498e11b136de26ea424627cfec0') LIMIT 1[0m
+  [4;36;1mUser Create (0.4ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:34:22', 'df1fc1bc1a972a80efa33054479cb6f58d045d6ffe312e56967afa981a64784fdb28a6cbdf38fed35a52781c190a5abcf22a08bf488ca9bffdd8da48ae6c3d16', '2009-04-02 00:34:22', 'ce7b69bcc120bb0df57a99903402de806996648e06d177b320fbb198752fec40603ff9877468b402bcf40f15b85d604371cb7fe7454b568a49871591c3b2ed5f', 'd7310cd5c5405e2a696ff1e3c5d8a4a5dd98e3de6aeed16d4f6e4ff9eb3fd4a10c23a34871f76cb994577e46d4797eab40b15498e11b136de26ea424627cfec0', 'user_4', 'bangbang_4@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = 'd7310cd5c5405e2a696ff1e3c5d8a4a5dd98e3de6aeed16d4f6e4ff9eb3fd4a10c23a34871f76cb994577e46d4797eab40b15498e11b136de26ea424627cfec0', "updated_at" = '2009-04-02 00:34:22', "created_at" = '2009-04-02 00:34:22', "email" = 'bangbang_4@example.com', "login" = 'user_4', "password_salt" = 'ce7b69bcc120bb0df57a99903402de806996648e06d177b320fbb198752fec40603ff9877468b402bcf40f15b85d604371cb7fe7454b568a49871591c3b2ed5f', "crypted_password" = 'df1fc1bc1a972a80efa33054479cb6f58d045d6ffe312e56967afa981a64784fdb28a6cbdf38fed35a52781c190a5abcf22a08bf488ca9bffdd8da48ae6c3d16' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:34:22) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:37:34) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:37:34) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:37:34) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '8e2cccdef4d1562ec6883afda4ebfa10126fe8d6dbf3e589dc10c7b3dfa0b29d05088d531c47cdaf562a0506c5cf7861b6d23f229ff93bf75f74ce91a63ed3ce') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:37:34', '63a5ec7832b222e2a40397e2532c9ef01bf2a4801c3137e0132903c6cd1bd0765994a47c612402fe0d88c49a2cd1b142785014b3f0968fda79e29b53e14fe061', '2009-04-02 00:37:34', '2bdbe33e5540800bd118b9c1e492898f9c76d2ba9d6646e60a1d29af564f33e1b7cee1bcbd232e058cc33dfe4fe43d5088310fa8ec57fb95c779ca52cc736527', '8e2cccdef4d1562ec6883afda4ebfa10126fe8d6dbf3e589dc10c7b3dfa0b29d05088d531c47cdaf562a0506c5cf7861b6d23f229ff93bf75f74ce91a63ed3ce', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '8e2cccdef4d1562ec6883afda4ebfa10126fe8d6dbf3e589dc10c7b3dfa0b29d05088d531c47cdaf562a0506c5cf7861b6d23f229ff93bf75f74ce91a63ed3ce', "updated_at" = '2009-04-02 00:37:34', "created_at" = '2009-04-02 00:37:34', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '2bdbe33e5540800bd118b9c1e492898f9c76d2ba9d6646e60a1d29af564f33e1b7cee1bcbd232e058cc33dfe4fe43d5088310fa8ec57fb95c779ca52cc736527', "crypted_password" = '63a5ec7832b222e2a40397e2532c9ef01bf2a4801c3137e0132903c6cd1bd0765994a47c612402fe0d88c49a2cd1b142785014b3f0968fda79e29b53e14fe061' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:37:34) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '944f0ad5990f82070c0ecbdbbf06409fd2205501a77dd0a2665b393094019003fc67aa26a04bcc750645856d067b4262a75a8d30e96bddd12c9e8a6e141ce6ff') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:37:34', 'f679be4f93e524afa03a1145fe282937b70d4b6bd5134f2624974f8ffb29bb2cd023fb2dc9d04ac613345d2b0133d49ea1dfc7cab271655902897838330645fd', '2009-04-02 00:37:34', '36ce13a667d5805be68d28ff104ba2e1ca6e9185e7da3f173eac6783c9a0c348d6728b05e8fa0770585e0519d2027254c787fbd807a6617afafd0c3158c58e91', '944f0ad5990f82070c0ecbdbbf06409fd2205501a77dd0a2665b393094019003fc67aa26a04bcc750645856d067b4262a75a8d30e96bddd12c9e8a6e141ce6ff', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '944f0ad5990f82070c0ecbdbbf06409fd2205501a77dd0a2665b393094019003fc67aa26a04bcc750645856d067b4262a75a8d30e96bddd12c9e8a6e141ce6ff', "updated_at" = '2009-04-02 00:37:34', "created_at" = '2009-04-02 00:37:34', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '36ce13a667d5805be68d28ff104ba2e1ca6e9185e7da3f173eac6783c9a0c348d6728b05e8fa0770585e0519d2027254c787fbd807a6617afafd0c3158c58e91', "crypted_password" = 'f679be4f93e524afa03a1145fe282937b70d4b6bd5134f2624974f8ffb29bb2cd023fb2dc9d04ac613345d2b0133d49ea1dfc7cab271655902897838330645fd' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:37:34) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_3') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_3@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '287bdfb666785aa17b6fc3d99bf0c15daa38dd2fb84c0827966ed388b396a8a2cc16119553988c21dd6571270295807a93780fe09b4bffa46e02e1b3fea1ae9f') LIMIT 1[0m
+  [4;35;1mUser Create (0.7ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:37:34', '5ce1b51bb5645b0849ac2d302ff33c5f6d6046700fbfdb89669f8b8ee804c8da7615222f2adfa7673c0d68f563c07768b0af7b1640679c2c82921a84e1354ffb', '2009-04-02 00:37:34', 'a3dd952ff36c7b950d34ab304f4e01d8dde1e2ec1075573b163b0dc7de2214d49940e950cd7f097efd824d591cfd5c0b37287da1369f59a514cbaaeaf7db827e', '287bdfb666785aa17b6fc3d99bf0c15daa38dd2fb84c0827966ed388b396a8a2cc16119553988c21dd6571270295807a93780fe09b4bffa46e02e1b3fea1ae9f', 'user_3', 'bangbang_3@example.com')[0m
+  [4;36;1mUser Update (0.3ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '287bdfb666785aa17b6fc3d99bf0c15daa38dd2fb84c0827966ed388b396a8a2cc16119553988c21dd6571270295807a93780fe09b4bffa46e02e1b3fea1ae9f', "updated_at" = '2009-04-02 00:37:34', "created_at" = '2009-04-02 00:37:34', "email" = 'bangbang_3@example.com', "login" = 'user_3', "password_salt" = 'a3dd952ff36c7b950d34ab304f4e01d8dde1e2ec1075573b163b0dc7de2214d49940e950cd7f097efd824d591cfd5c0b37287da1369f59a514cbaaeaf7db827e', "crypted_password" = '5ce1b51bb5645b0849ac2d302ff33c5f6d6046700fbfdb89669f8b8ee804c8da7615222f2adfa7673c0d68f563c07768b0af7b1640679c2c82921a84e1354ffb' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:37:34) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 2) | 302 Found [http://test.host/user_session]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_4') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_4@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '61ecf581da860a3a7c7f860f8084a11f8416ea31e9b647585a3d4da17689dcff2a19ac17c1eacf06c9f59ce2668f1bdab0dfe26af97744d5679371084828563f') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:37:34', '6bcca314243fd3efcc571fc0e11a35ef274ac1147cb832c590cd08d5f812a1abf28c2ed07a75d9e0b800f66a566d212857a45d7e20211a8949486df30cbf1e7e', '2009-04-02 00:37:34', 'cfd7a4eaf35dd0794f0bf8404708c7afc33611f74e82eaa7a2a014dd6ffc0c97b9a324af26b421d92ca02fa765a62c2d320b0b0472b547a03387317c99a0bd41', '61ecf581da860a3a7c7f860f8084a11f8416ea31e9b647585a3d4da17689dcff2a19ac17c1eacf06c9f59ce2668f1bdab0dfe26af97744d5679371084828563f', 'user_4', 'bangbang_4@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '61ecf581da860a3a7c7f860f8084a11f8416ea31e9b647585a3d4da17689dcff2a19ac17c1eacf06c9f59ce2668f1bdab0dfe26af97744d5679371084828563f', "updated_at" = '2009-04-02 00:37:34', "created_at" = '2009-04-02 00:37:34', "email" = 'bangbang_4@example.com', "login" = 'user_4', "password_salt" = 'cfd7a4eaf35dd0794f0bf8404708c7afc33611f74e82eaa7a2a014dd6ffc0c97b9a324af26b421d92ca02fa765a62c2d320b0b0472b547a03387317c99a0bd41', "crypted_password" = '6bcca314243fd3efcc571fc0e11a35ef274ac1147cb832c590cd08d5f812a1abf28c2ed07a75d9e0b800f66a566d212857a45d7e20211a8949486df30cbf1e7e' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:37:34) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:37:34) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:40:27) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:40:27) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:40:27) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.8ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '18b2f6165d0170a94a2e5e1ed4ad07744acedbb8b6a1ab93da4f9bb2effe2b0ef2998df42671b32aa947bc69010f4ad151c28742c394e8202ea5a86c13ba7cd1') LIMIT 1[0m
+  [4;35;1mUser Create (0.7ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:40:27', '0c669e026a9eb66ea3eb3089eb4aa68721d139f3a9a7d086b4b82ffffa1ba7698863df01789c3a0935d2c8948ceb648294c123cf8701d115560b6aaff6f769da', '2009-04-02 00:40:27', 'aca658eedd74508aa3529b11e9ed16c2f71542293f6320e795ec5253c459beeac2dea3874bfa4c4a5c2e4aa032d03539ce2366e85b1d18306d8bcf073a6f4861', '18b2f6165d0170a94a2e5e1ed4ad07744acedbb8b6a1ab93da4f9bb2effe2b0ef2998df42671b32aa947bc69010f4ad151c28742c394e8202ea5a86c13ba7cd1', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '18b2f6165d0170a94a2e5e1ed4ad07744acedbb8b6a1ab93da4f9bb2effe2b0ef2998df42671b32aa947bc69010f4ad151c28742c394e8202ea5a86c13ba7cd1', "updated_at" = '2009-04-02 00:40:27', "created_at" = '2009-04-02 00:40:27', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = 'aca658eedd74508aa3529b11e9ed16c2f71542293f6320e795ec5253c459beeac2dea3874bfa4c4a5c2e4aa032d03539ce2366e85b1d18306d8bcf073a6f4861', "crypted_password" = '0c669e026a9eb66ea3eb3089eb4aa68721d139f3a9a7d086b4b82ffffa1ba7698863df01789c3a0935d2c8948ceb648294c123cf8701d115560b6aaff6f769da' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:40:27) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 2) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '5dbee38ac5e340e26ce240eedaabf9fd1f2869fa78a9cc6286d0aeae36d40bf01b75756309a925fc105809497c7df4bfc1b6789a753fe3dd5ff1990c7eb5ef1a') LIMIT 1[0m
+  [4;36;1mUser Create (0.4ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:40:27', 'ab173bd182225eb228a6249fe86d1ee2a4174ef4542fd77b6d788f6830db082abe29713345064d2a43565adf8f260201b9ba1728a8f15186ca41e5bd79580e91', '2009-04-02 00:40:27', 'd3119ec07772119c56af3eb11595fff547da0c29304ddd866dc4f8045e6f2970e1e4b67d7514d6e6dc443aae6629474abb3ca9d40b4a3bbccc436c996cf16c07', '5dbee38ac5e340e26ce240eedaabf9fd1f2869fa78a9cc6286d0aeae36d40bf01b75756309a925fc105809497c7df4bfc1b6789a753fe3dd5ff1990c7eb5ef1a', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '5dbee38ac5e340e26ce240eedaabf9fd1f2869fa78a9cc6286d0aeae36d40bf01b75756309a925fc105809497c7df4bfc1b6789a753fe3dd5ff1990c7eb5ef1a', "updated_at" = '2009-04-02 00:40:27', "created_at" = '2009-04-02 00:40:27', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = 'd3119ec07772119c56af3eb11595fff547da0c29304ddd866dc4f8045e6f2970e1e4b67d7514d6e6dc443aae6629474abb3ca9d40b4a3bbccc436c996cf16c07', "crypted_password" = 'ab173bd182225eb228a6249fe86d1ee2a4174ef4542fd77b6d788f6830db082abe29713345064d2a43565adf8f260201b9ba1728a8f15186ca41e5bd79580e91' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:40:27) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_3') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_3@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '9a1b6d98309b4740f02433b679113bfba1fde8abfd44c4441c503e6191e51a03a8347a84afb127cc354256ea3ee9029ca4dc215917f857a3ad87c911033b33f8') LIMIT 1[0m
+  [4;35;1mUser Create (0.6ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:40:27', 'a5a2d3d604defed98d5e71a595dfe7b780d821ee1a155f423ba954095517d57434b83cc43d7dee89cf0fd99377a41b4df7046a0361ab39f927cbd2476efc15e5', '2009-04-02 00:40:27', 'a3a7a52a9b35f5f0c4c4ec8225a3bc62decaf89c9bbf041359716f287abbf8a761f45b8d7cb2186664456cce1471051cd7916dcc8051fab9399818df8fd01e97', '9a1b6d98309b4740f02433b679113bfba1fde8abfd44c4441c503e6191e51a03a8347a84afb127cc354256ea3ee9029ca4dc215917f857a3ad87c911033b33f8', 'user_3', 'bangbang_3@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '9a1b6d98309b4740f02433b679113bfba1fde8abfd44c4441c503e6191e51a03a8347a84afb127cc354256ea3ee9029ca4dc215917f857a3ad87c911033b33f8', "updated_at" = '2009-04-02 00:40:27', "created_at" = '2009-04-02 00:40:27', "email" = 'bangbang_3@example.com', "login" = 'user_3', "password_salt" = 'a3a7a52a9b35f5f0c4c4ec8225a3bc62decaf89c9bbf041359716f287abbf8a761f45b8d7cb2186664456cce1471051cd7916dcc8051fab9399818df8fd01e97', "crypted_password" = 'a5a2d3d604defed98d5e71a595dfe7b780d821ee1a155f423ba954095517d57434b83cc43d7dee89cf0fd99377a41b4df7046a0361ab39f927cbd2476efc15e5' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:40:27) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_4') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_4@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '97e19a25fe73c301cd0b3fffe2abab623963fdd54fd36e7c9d3c3b5708d9c2df105d8726593ed6019e8a9e1f9594467ccec967a418139f312c23a9a2adcb70f3') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:40:27', 'a3fe7c8efce52f28d780550798bc00d352130562e6ceaf48dcc0081aa338057e1b272e24126b23fdab6bfc346b1590f5ae7b7cdef755e737288e2866738ab2ea', '2009-04-02 00:40:27', '0c57b02bcaab6555558afdf3feb8652c194af4b88998903a854c55bac727e25c97da188d420966b1570cb869f0c4de6caea4f2dd7aa6778ba4d3c36f1e327fda', '97e19a25fe73c301cd0b3fffe2abab623963fdd54fd36e7c9d3c3b5708d9c2df105d8726593ed6019e8a9e1f9594467ccec967a418139f312c23a9a2adcb70f3', 'user_4', 'bangbang_4@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '97e19a25fe73c301cd0b3fffe2abab623963fdd54fd36e7c9d3c3b5708d9c2df105d8726593ed6019e8a9e1f9594467ccec967a418139f312c23a9a2adcb70f3', "updated_at" = '2009-04-02 00:40:27', "created_at" = '2009-04-02 00:40:27', "email" = 'bangbang_4@example.com', "login" = 'user_4', "password_salt" = '0c57b02bcaab6555558afdf3feb8652c194af4b88998903a854c55bac727e25c97da188d420966b1570cb869f0c4de6caea4f2dd7aa6778ba4d3c36f1e327fda', "crypted_password" = 'a3fe7c8efce52f28d780550798bc00d352130562e6ceaf48dcc0081aa338057e1b272e24126b23fdab6bfc346b1590f5ae7b7cdef755e737288e2866738ab2ea' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:40:27) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:40:27) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:42:00) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:42:00) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:42:00) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '9fe62c7d1e495aeaccbe6398d8e7422a50b4902d726b0c59a88e8310749b3986bc78ec7efb5471f60e76a367a84533d5b4b8e278a134f173d60c17f17cb2bc5c') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:42:00', 'c259580a530cb10bf4f3c3f778958a33dfc99cb2770923faf142d6f3fd9de5797d2ae44bbe177249e2594f38851ea6455aacb7a49a57fd7a875fceefc824f370', '2009-04-02 00:42:00', '98c7fd6560fa7ddda2ae7ebf46ae5ef2d28e79c673757f3adbdb2faf86d2221a453b890da893a4c9cc2a86e3d8848221b49e801df6e91a4489ed240026fbe14e', '9fe62c7d1e495aeaccbe6398d8e7422a50b4902d726b0c59a88e8310749b3986bc78ec7efb5471f60e76a367a84533d5b4b8e278a134f173d60c17f17cb2bc5c', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '9fe62c7d1e495aeaccbe6398d8e7422a50b4902d726b0c59a88e8310749b3986bc78ec7efb5471f60e76a367a84533d5b4b8e278a134f173d60c17f17cb2bc5c', "updated_at" = '2009-04-02 00:42:00', "created_at" = '2009-04-02 00:42:00', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '98c7fd6560fa7ddda2ae7ebf46ae5ef2d28e79c673757f3adbdb2faf86d2221a453b890da893a4c9cc2a86e3d8848221b49e801df6e91a4489ed240026fbe14e', "crypted_password" = 'c259580a530cb10bf4f3c3f778958a33dfc99cb2770923faf142d6f3fd9de5797d2ae44bbe177249e2594f38851ea6455aacb7a49a57fd7a875fceefc824f370' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:42:00) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.4ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '8b6da920471c7e3b5e00fc9b058932bdf5c3ea1da50c2f8690d0fefd9f5f0774d2bfae404799e944962032c8dcf14d2b20922cc395b5238c9caf9d371329107f') LIMIT 1[0m
+  [4;36;1mUser Create (0.4ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:42:00', '22236eeff0edf9fc7bd070200bd523c5ae65976be192f6542f1e859a5faa875d83179f3974e6980d575e7aa1d53874d16b7fb38e33771435ed281dfdfa0477b7', '2009-04-02 00:42:00', '115ce5cb5de8dd310c4932df0bd30573c55d0f3d7fc1d68848ac9d84af3279708d3143a42ad103ff8d2666519d0fa599cb387f7f0779fcc7fad2bbf15f859bb2', '8b6da920471c7e3b5e00fc9b058932bdf5c3ea1da50c2f8690d0fefd9f5f0774d2bfae404799e944962032c8dcf14d2b20922cc395b5238c9caf9d371329107f', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '8b6da920471c7e3b5e00fc9b058932bdf5c3ea1da50c2f8690d0fefd9f5f0774d2bfae404799e944962032c8dcf14d2b20922cc395b5238c9caf9d371329107f', "updated_at" = '2009-04-02 00:42:00', "created_at" = '2009-04-02 00:42:00', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '115ce5cb5de8dd310c4932df0bd30573c55d0f3d7fc1d68848ac9d84af3279708d3143a42ad103ff8d2666519d0fa599cb387f7f0779fcc7fad2bbf15f859bb2', "crypted_password" = '22236eeff0edf9fc7bd070200bd523c5ae65976be192f6542f1e859a5faa875d83179f3974e6980d575e7aa1d53874d16b7fb38e33771435ed281dfdfa0477b7' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:42:00) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_3') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_3@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '565a02907ac9587b322a3c9b3e98caf0f338d9e93d01dedeab8c91c1eacb2d56b3574f878a67d9600c508a0cd6e0586a566a02be22ea09a8a91a048114238c1c') LIMIT 1[0m
+  [4;35;1mUser Create (0.3ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:42:00', '12b3d4be2ded468da21566cb56d9fd23faadcc0dad6c838d2cf33c75f9a31a6195c59a97ee38b0cb93fa429bac56e81f2c5f351fde21cf51e1a0b8190ecf9a41', '2009-04-02 00:42:00', 'f211d9d641943ca148cc290f05065beb84190199dff1f624f45582a03c37ee4c38fb9ab19c407e224a70a334dc4abc58967890811da960690aaec4316c6dbc0c', '565a02907ac9587b322a3c9b3e98caf0f338d9e93d01dedeab8c91c1eacb2d56b3574f878a67d9600c508a0cd6e0586a566a02be22ea09a8a91a048114238c1c', 'user_3', 'bangbang_3@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '565a02907ac9587b322a3c9b3e98caf0f338d9e93d01dedeab8c91c1eacb2d56b3574f878a67d9600c508a0cd6e0586a566a02be22ea09a8a91a048114238c1c', "updated_at" = '2009-04-02 00:42:00', "created_at" = '2009-04-02 00:42:00', "email" = 'bangbang_3@example.com', "login" = 'user_3', "password_salt" = 'f211d9d641943ca148cc290f05065beb84190199dff1f624f45582a03c37ee4c38fb9ab19c407e224a70a334dc4abc58967890811da960690aaec4316c6dbc0c', "crypted_password" = '12b3d4be2ded468da21566cb56d9fd23faadcc0dad6c838d2cf33c75f9a31a6195c59a97ee38b0cb93fa429bac56e81f2c5f351fde21cf51e1a0b8190ecf9a41' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:42:00) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_4') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_4@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '2f8958b631ab47834221ed7d82db95345a7dd766533b182446b9bbee6857bbdd06608c5b841213e713ce683a4e429fb561159d3e81b37203e1f91ec733f8e2ca') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:42:00', 'd3320a41919a53a8d2b107aef1fdb12cf28e72a918c7220da5dd68e8b694cfe914dc92b84f9148f0c2f0dff44488822a214f357d4564f3a8b236cfebf1744550', '2009-04-02 00:42:00', '92ec0996e0395e63c7459e5738d37f2ade326e32d364c19e694e75c09e83da68e6e95eb0f614bdffda74d6ff14d630a5d292339d54cafecfe6d6b26abfeb2a94', '2f8958b631ab47834221ed7d82db95345a7dd766533b182446b9bbee6857bbdd06608c5b841213e713ce683a4e429fb561159d3e81b37203e1f91ec733f8e2ca', 'user_4', 'bangbang_4@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '2f8958b631ab47834221ed7d82db95345a7dd766533b182446b9bbee6857bbdd06608c5b841213e713ce683a4e429fb561159d3e81b37203e1f91ec733f8e2ca', "updated_at" = '2009-04-02 00:42:00', "created_at" = '2009-04-02 00:42:00', "email" = 'bangbang_4@example.com', "login" = 'user_4', "password_salt" = '92ec0996e0395e63c7459e5738d37f2ade326e32d364c19e694e75c09e83da68e6e95eb0f614bdffda74d6ff14d630a5d292339d54cafecfe6d6b26abfeb2a94', "crypted_password" = 'd3320a41919a53a8d2b107aef1fdb12cf28e72a918c7220da5dd68e8b694cfe914dc92b84f9148f0c2f0dff44488822a214f357d4564f3a8b236cfebf1744550' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:42:00) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:42:00) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:43:43) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:43:43) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:43:43) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '82d6f3607c05700e4950f6eb53204aa37a14ec93307f66072aa5370542d2a68ac69adf9bcedbdd31b7b4fe5ca941510d0512b42bbffddff0c92ccf3a7a3fc3e5') LIMIT 1[0m
+  [4;35;1mUser Create (0.6ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:43:43', 'ea5c7fa00a9d27ff9c133645e9b124f250a40fc188be798415a6408206951f2b4d2dc049712e0e8fc6824822a8879c9831d381a941710481d5e3cafbcce769e6', '2009-04-02 00:43:43', '247c2e37b35f01459db36aafa42d7147d8c2436ec4f15736d5a5c9b4ae5d28c100450c0f36c6d5b92864efd6d2a73128033a7b2c9434ab3c6e38d07ccc6c918f', '82d6f3607c05700e4950f6eb53204aa37a14ec93307f66072aa5370542d2a68ac69adf9bcedbdd31b7b4fe5ca941510d0512b42bbffddff0c92ccf3a7a3fc3e5', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '82d6f3607c05700e4950f6eb53204aa37a14ec93307f66072aa5370542d2a68ac69adf9bcedbdd31b7b4fe5ca941510d0512b42bbffddff0c92ccf3a7a3fc3e5', "updated_at" = '2009-04-02 00:43:43', "created_at" = '2009-04-02 00:43:43', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '247c2e37b35f01459db36aafa42d7147d8c2436ec4f15736d5a5c9b4ae5d28c100450c0f36c6d5b92864efd6d2a73128033a7b2c9434ab3c6e38d07ccc6c918f', "crypted_password" = 'ea5c7fa00a9d27ff9c133645e9b124f250a40fc188be798415a6408206951f2b4d2dc049712e0e8fc6824822a8879c9831d381a941710481d5e3cafbcce769e6' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:43:43) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'ef40d541cd2f5bc293b915bf8e3b5524b904b378ecca16ef285fe4e7f7028d79ae5367e630e617b19bf4e68d817388f64e19d8493d1a7383b12e85bb19418031') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:43:43', 'f2333f629326e57f4d7e7126c53696221348ca1b70b37052dc38f0fdd1024a12ec338bfa5c3556695ff7d6a347c5dd0e9bd194e48edc1a1be5405c87def43175', '2009-04-02 00:43:43', '348055de12e65a6775fc39497a551a0edb3118f4a3b143e5e1d2621762aab9465ba1d7497307badc6e0c59165ea53a15a25678ac02002b9d6e82ba6d515007c9', 'ef40d541cd2f5bc293b915bf8e3b5524b904b378ecca16ef285fe4e7f7028d79ae5367e630e617b19bf4e68d817388f64e19d8493d1a7383b12e85bb19418031', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = 'ef40d541cd2f5bc293b915bf8e3b5524b904b378ecca16ef285fe4e7f7028d79ae5367e630e617b19bf4e68d817388f64e19d8493d1a7383b12e85bb19418031', "updated_at" = '2009-04-02 00:43:43', "created_at" = '2009-04-02 00:43:43', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '348055de12e65a6775fc39497a551a0edb3118f4a3b143e5e1d2621762aab9465ba1d7497307badc6e0c59165ea53a15a25678ac02002b9d6e82ba6d515007c9', "crypted_password" = 'f2333f629326e57f4d7e7126c53696221348ca1b70b37052dc38f0fdd1024a12ec338bfa5c3556695ff7d6a347c5dd0e9bd194e48edc1a1be5405c87def43175' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:43:43) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_3') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_3@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'fd234eb43fabbce30f7317a349e02b619d248091327ee584bceca8d52855963a562b5984ac7be181dc527285e501d264e90b9121c97f9326313e8e7d5ebe3dd4') LIMIT 1[0m
+  [4;35;1mUser Create (0.7ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:43:43', 'e173548b0ff70d2479e26f79b966e20f6d9ea6309247fdcdfc61402f53e28b99238d39527c8c6272ab453d50780177604bc270ba6a5441fcb63710674fca7a8e', '2009-04-02 00:43:43', '20848b82c8077f3d0690ea3b2aadbe461f1946b1e75ecdf64c5010c17350455b6a91228324682fb0d01166cceb5a99ff40f0783f9d891e0973ac73dcde1200ff', 'fd234eb43fabbce30f7317a349e02b619d248091327ee584bceca8d52855963a562b5984ac7be181dc527285e501d264e90b9121c97f9326313e8e7d5ebe3dd4', 'user_3', 'bangbang_3@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = 'fd234eb43fabbce30f7317a349e02b619d248091327ee584bceca8d52855963a562b5984ac7be181dc527285e501d264e90b9121c97f9326313e8e7d5ebe3dd4', "updated_at" = '2009-04-02 00:43:43', "created_at" = '2009-04-02 00:43:43', "email" = 'bangbang_3@example.com', "login" = 'user_3', "password_salt" = '20848b82c8077f3d0690ea3b2aadbe461f1946b1e75ecdf64c5010c17350455b6a91228324682fb0d01166cceb5a99ff40f0783f9d891e0973ac73dcde1200ff', "crypted_password" = 'e173548b0ff70d2479e26f79b966e20f6d9ea6309247fdcdfc61402f53e28b99238d39527c8c6272ab453d50780177604bc270ba6a5441fcb63710674fca7a8e' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:43:43) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_4') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_4@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '8474ec51c24347993e1c6a589f3ba7bf1806f8273e0d14170aed98d2ecdbe6d74aa8aa00bbea7cc86980afe69a4b6f2fd262fecaaf5211511f7407713a0b0861') LIMIT 1[0m
+  [4;36;1mUser Create (0.4ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:43:43', '240121f933c1417e85183fcd17d22b04ffb65119b5571ce8b4591dd126049e5f1a1f338117ba94b7e983ee0bb902498cb69d00a6cca10b72c1bb93d722d93159', '2009-04-02 00:43:43', '75fc57d9610440d6702d3c7b1445838fdbe9b0346f122b5ac907f984bfb531af1f963a337da22b1055dd354203ed8c5f9f48553be5bed782ca4ffd4d148d2af8', '8474ec51c24347993e1c6a589f3ba7bf1806f8273e0d14170aed98d2ecdbe6d74aa8aa00bbea7cc86980afe69a4b6f2fd262fecaaf5211511f7407713a0b0861', 'user_4', 'bangbang_4@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '8474ec51c24347993e1c6a589f3ba7bf1806f8273e0d14170aed98d2ecdbe6d74aa8aa00bbea7cc86980afe69a4b6f2fd262fecaaf5211511f7407713a0b0861', "updated_at" = '2009-04-02 00:43:43', "created_at" = '2009-04-02 00:43:43', "email" = 'bangbang_4@example.com', "login" = 'user_4', "password_salt" = '75fc57d9610440d6702d3c7b1445838fdbe9b0346f122b5ac907f984bfb531af1f963a337da22b1055dd354203ed8c5f9f48553be5bed782ca4ffd4d148d2af8', "crypted_password" = '240121f933c1417e85183fcd17d22b04ffb65119b5571ce8b4591dd126049e5f1a1f338117ba94b7e983ee0bb902498cb69d00a6cca10b72c1bb93d722d93159' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:43:43) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:43:43) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:44:10) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:44:10) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:44:10) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'b164a7d5e65aa702d31073ed0f946f996c34d5e7e9afd2d4cf17e8ff92f60792b0b9438cf415135b5a596e66cdf3464cf825725c8a606b6b421060f9a32621a2') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:44:10', '7e7e6fe7476897959218efb03382ecfd8441798b3a87200afae84f61f43e43483b0afaf2715100f411d5c869b7aba9119173560ea062e5f14a9dff212bce1619', '2009-04-02 00:44:10', 'f990599d2d661f9a21b2a3d6d51c8028255a0185b4881c310ccdbed238a3fc86bee6c9ee0a3f5b5f0c1078435c46daefdc8753af82e9afa3e1b29ef803116f8a', 'b164a7d5e65aa702d31073ed0f946f996c34d5e7e9afd2d4cf17e8ff92f60792b0b9438cf415135b5a596e66cdf3464cf825725c8a606b6b421060f9a32621a2', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = 'b164a7d5e65aa702d31073ed0f946f996c34d5e7e9afd2d4cf17e8ff92f60792b0b9438cf415135b5a596e66cdf3464cf825725c8a606b6b421060f9a32621a2', "updated_at" = '2009-04-02 00:44:10', "created_at" = '2009-04-02 00:44:10', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = 'f990599d2d661f9a21b2a3d6d51c8028255a0185b4881c310ccdbed238a3fc86bee6c9ee0a3f5b5f0c1078435c46daefdc8753af82e9afa3e1b29ef803116f8a', "crypted_password" = '7e7e6fe7476897959218efb03382ecfd8441798b3a87200afae84f61f43e43483b0afaf2715100f411d5c869b7aba9119173560ea062e5f14a9dff212bce1619' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:44:10) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'a90cf5d939d25d4b35fb11977b717b2388fc878367f4bf44b6cda9ccffc879b6b40e85e98bd85f1058b7ee8bbcd2a89f1e72f87c0fffe80dfa6fdd63024a27e2') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:44:10', '6dbfe4c8f56bcfc17a37276d8f5f1a1c9b32cce7bcf9a6175f938ef928ce06ac697ebcd4eb375ae74bbb0613748ffd9965ca89e91f5813486a6f0e316a6b82b1', '2009-04-02 00:44:10', '14aec380bb16e8b6c77765f2c758465e4fec2b629932d0cc7b2a7eebca4230f1293aa7f9735321d62ab81e64d0ba4748665d464ba3c86f7a2dd9424bdb6ba754', 'a90cf5d939d25d4b35fb11977b717b2388fc878367f4bf44b6cda9ccffc879b6b40e85e98bd85f1058b7ee8bbcd2a89f1e72f87c0fffe80dfa6fdd63024a27e2', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = 'a90cf5d939d25d4b35fb11977b717b2388fc878367f4bf44b6cda9ccffc879b6b40e85e98bd85f1058b7ee8bbcd2a89f1e72f87c0fffe80dfa6fdd63024a27e2', "updated_at" = '2009-04-02 00:44:10', "created_at" = '2009-04-02 00:44:10', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '14aec380bb16e8b6c77765f2c758465e4fec2b629932d0cc7b2a7eebca4230f1293aa7f9735321d62ab81e64d0ba4748665d464ba3c86f7a2dd9424bdb6ba754', "crypted_password" = '6dbfe4c8f56bcfc17a37276d8f5f1a1c9b32cce7bcf9a6175f938ef928ce06ac697ebcd4eb375ae74bbb0613748ffd9965ca89e91f5813486a6f0e316a6b82b1' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:44:10) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_3') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_3@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'e68d9cc05663e4ddf2fd691ac125b7dbe7f3e4c9fd1266ba868647532e1d01656497d711253e7ddc5c9ba7a14f38c17b799cfabc9aa571ec067b5a09ddbe010e') LIMIT 1[0m
+  [4;35;1mUser Create (0.3ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:44:10', '3d4826c50ab7179e00202db0ebcb2799176b9110cd8087f19504abaa4689983332069f393ee4871568f578b98611dc24235045ee396c3e2fe8963caca0da81b6', '2009-04-02 00:44:10', '081112dbcb34416287b420a6d45f01dae73d646abf02cf085af57f2f73515ceee2b9e17b98613f64dfb6b2f17c99a408af579ad1b0ff1dad22a31e2c86199b7f', 'e68d9cc05663e4ddf2fd691ac125b7dbe7f3e4c9fd1266ba868647532e1d01656497d711253e7ddc5c9ba7a14f38c17b799cfabc9aa571ec067b5a09ddbe010e', 'user_3', 'bangbang_3@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = 'e68d9cc05663e4ddf2fd691ac125b7dbe7f3e4c9fd1266ba868647532e1d01656497d711253e7ddc5c9ba7a14f38c17b799cfabc9aa571ec067b5a09ddbe010e', "updated_at" = '2009-04-02 00:44:10', "created_at" = '2009-04-02 00:44:10', "email" = 'bangbang_3@example.com', "login" = 'user_3', "password_salt" = '081112dbcb34416287b420a6d45f01dae73d646abf02cf085af57f2f73515ceee2b9e17b98613f64dfb6b2f17c99a408af579ad1b0ff1dad22a31e2c86199b7f', "crypted_password" = '3d4826c50ab7179e00202db0ebcb2799176b9110cd8087f19504abaa4689983332069f393ee4871568f578b98611dc24235045ee396c3e2fe8963caca0da81b6' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:44:10) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_4') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_4@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'd5232d419f45eb409f76d9c7aec980c82dc986b0e1c54da15e10e74d9be89ab5797395991c6a52e7c9e2cc475e55d576858a10a529c420587f2a0232932178c7') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:44:10', '74f47345dd803e4580e8d957f574fad4e8930a1243130156bea41d03e3b24851723e08de96afd3251c24407d24d22bdaa445a94074ba2363e18408df9b9e1fe8', '2009-04-02 00:44:10', 'd1fdd23e39f9f91a3944643baa43e5fe475e9018fde969c3bb0581cb928dfaf2901c682b14cde4fcece9e6322fcab3bfa816febc6deda9570b019e975184bdc1', 'd5232d419f45eb409f76d9c7aec980c82dc986b0e1c54da15e10e74d9be89ab5797395991c6a52e7c9e2cc475e55d576858a10a529c420587f2a0232932178c7', 'user_4', 'bangbang_4@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = 'd5232d419f45eb409f76d9c7aec980c82dc986b0e1c54da15e10e74d9be89ab5797395991c6a52e7c9e2cc475e55d576858a10a529c420587f2a0232932178c7', "updated_at" = '2009-04-02 00:44:10', "created_at" = '2009-04-02 00:44:10', "email" = 'bangbang_4@example.com', "login" = 'user_4', "password_salt" = 'd1fdd23e39f9f91a3944643baa43e5fe475e9018fde969c3bb0581cb928dfaf2901c682b14cde4fcece9e6322fcab3bfa816febc6deda9570b019e975184bdc1', "crypted_password" = '74f47345dd803e4580e8d957f574fad4e8930a1243130156bea41d03e3b24851723e08de96afd3251c24407d24d22bdaa445a94074ba2363e18408df9b9e1fe8' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:44:10) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:44:10) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:46:59) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:46:59) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:46:59) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '4f3d22e52de0ad7e966d1d4500bca537d001fa501b01890dab834d02a67ad32301c5cc8a1e727392033c1fc225a62b582a6c870f78a769360751d94e2b16a535') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:46:59', 'd9e7f1347788bbd91ff4f809663e51444a0575d9078191452d32eda845002118ec002604676425380cd8b0bdc426e0ee67259a8e43b57430b552a044de37eac3', '2009-04-02 00:46:59', '9596263a18a8a6ab6b306aa92c5a3fbf2ddb35cf1e269178dc5ece47a63226ae376299eacf4e4735360de9428c1b37d05cbb34e6166e9a04bc71d43c628e2562', '4f3d22e52de0ad7e966d1d4500bca537d001fa501b01890dab834d02a67ad32301c5cc8a1e727392033c1fc225a62b582a6c870f78a769360751d94e2b16a535', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '4f3d22e52de0ad7e966d1d4500bca537d001fa501b01890dab834d02a67ad32301c5cc8a1e727392033c1fc225a62b582a6c870f78a769360751d94e2b16a535', "updated_at" = '2009-04-02 00:46:59', "created_at" = '2009-04-02 00:46:59', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '9596263a18a8a6ab6b306aa92c5a3fbf2ddb35cf1e269178dc5ece47a63226ae376299eacf4e4735360de9428c1b37d05cbb34e6166e9a04bc71d43c628e2562', "crypted_password" = 'd9e7f1347788bbd91ff4f809663e51444a0575d9078191452d32eda845002118ec002604676425380cd8b0bdc426e0ee67259a8e43b57430b552a044de37eac3' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:46:59) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'c800f77f1d513e11e4bfb229e1db4d9e5b379ca68a2deba0021b2d1a601121f233c5f60257d9579e28aaa56685d99b59ffe69f5a4d7d5413861b9a4ac8ad9193') LIMIT 1[0m
+  [4;36;1mUser Create (0.5ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:46:59', '80d697c15d3cfd4e44f3b46d94fa58ce40605874e52b65a62374e824389525f9ea15b56fbfa5ba33f5befaab4ad2a2536ce88c7f41abc60499b12b1c0c6edc34', '2009-04-02 00:46:59', 'c016bcd4346ebeef89e4753010f9510f9fbe130f70db7a583f9b22fb539f0e72aa1e1cf11c3dcf412fba79b2244f6bdcb4f4a43f14ebd580efca0e69a3396553', 'c800f77f1d513e11e4bfb229e1db4d9e5b379ca68a2deba0021b2d1a601121f233c5f60257d9579e28aaa56685d99b59ffe69f5a4d7d5413861b9a4ac8ad9193', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.2ms)[0m   [0mUPDATE "users" SET "persistence_token" = 'c800f77f1d513e11e4bfb229e1db4d9e5b379ca68a2deba0021b2d1a601121f233c5f60257d9579e28aaa56685d99b59ffe69f5a4d7d5413861b9a4ac8ad9193', "updated_at" = '2009-04-02 00:46:59', "created_at" = '2009-04-02 00:46:59', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = 'c016bcd4346ebeef89e4753010f9510f9fbe130f70db7a583f9b22fb539f0e72aa1e1cf11c3dcf412fba79b2244f6bdcb4f4a43f14ebd580efca0e69a3396553', "crypted_password" = '80d697c15d3cfd4e44f3b46d94fa58ce40605874e52b65a62374e824389525f9ea15b56fbfa5ba33f5befaab4ad2a2536ce88c7f41abc60499b12b1c0c6edc34' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:46:59) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_3') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_3@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'a9910dc57f98790e022af2393f2b4104db4741e070efd39b9601e095e262689494d5828f00ad249420aea0929ce4394eb0141e53538ae71baac0a7527e3c69bc') LIMIT 1[0m
+  [4;35;1mUser Create (0.7ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:46:59', '6aae4c32cbf114fd64f108895e31550a3f57fbb106c0aec7dbb8a2727c23417b6ba3cb124b7db6ae459ad580374f666bde09d5d7bddeca316ecbd1c5f4da6f75', '2009-04-02 00:46:59', 'de9c8f791fa819a5c61a0a2edf4eb9644812fd1c2553ba0bf5b8d23f8832fbc06ea6ac3c13f811299d3ed0d8696343069edb188c199b3ccc4ba50f215cd2e1f0', 'a9910dc57f98790e022af2393f2b4104db4741e070efd39b9601e095e262689494d5828f00ad249420aea0929ce4394eb0141e53538ae71baac0a7527e3c69bc', 'user_3', 'bangbang_3@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = 'a9910dc57f98790e022af2393f2b4104db4741e070efd39b9601e095e262689494d5828f00ad249420aea0929ce4394eb0141e53538ae71baac0a7527e3c69bc', "updated_at" = '2009-04-02 00:46:59', "created_at" = '2009-04-02 00:46:59', "email" = 'bangbang_3@example.com', "login" = 'user_3', "password_salt" = 'de9c8f791fa819a5c61a0a2edf4eb9644812fd1c2553ba0bf5b8d23f8832fbc06ea6ac3c13f811299d3ed0d8696343069edb188c199b3ccc4ba50f215cd2e1f0', "crypted_password" = '6aae4c32cbf114fd64f108895e31550a3f57fbb106c0aec7dbb8a2727c23417b6ba3cb124b7db6ae459ad580374f666bde09d5d7bddeca316ecbd1c5f4da6f75' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:46:59) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_4') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_4@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '12181a954612ffa59945b79c4c84365ac55ddd5dc1ead7ab73879a3bfe03c3df1c12d17c89ac6290cd8ea1728e71c301b1c234cbba669891d0edb774b6b85ed1') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:46:59', '8122a6eba5be6163f3e9b10c7e41ac6f6671412d6174b155efd8690237f38d655efcebc762a5f966c0c5208b07a1fef8b93e8104bbef452d552497aa4baf1d84', '2009-04-02 00:46:59', 'bb71a62e1f93f5211ca5bc75207034ab22f218042e71a0186cdcc1cc6ba5ad4d836d8e5690f72999a351865a563526f7f236184be720ccdb766b445bac2f77a0', '12181a954612ffa59945b79c4c84365ac55ddd5dc1ead7ab73879a3bfe03c3df1c12d17c89ac6290cd8ea1728e71c301b1c234cbba669891d0edb774b6b85ed1', 'user_4', 'bangbang_4@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '12181a954612ffa59945b79c4c84365ac55ddd5dc1ead7ab73879a3bfe03c3df1c12d17c89ac6290cd8ea1728e71c301b1c234cbba669891d0edb774b6b85ed1', "updated_at" = '2009-04-02 00:46:59', "created_at" = '2009-04-02 00:46:59', "email" = 'bangbang_4@example.com', "login" = 'user_4', "password_salt" = 'bb71a62e1f93f5211ca5bc75207034ab22f218042e71a0186cdcc1cc6ba5ad4d836d8e5690f72999a351865a563526f7f236184be720ccdb766b445bac2f77a0', "crypted_password" = '8122a6eba5be6163f3e9b10c7e41ac6f6671412d6174b155efd8690237f38d655efcebc762a5f966c0c5208b07a1fef8b93e8104bbef452d552497aa4baf1d84' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:46:59) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:46:59) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:49:54) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:49:54) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:49:54) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '8ee817d6c0c77cf9a37c3f23d6ce2b3e3ca1916ed7bf2cee8778d8e68d3920e78e1d26036f1d01650c845968bc2ec5bb35c67569fe9c2cc306a19ccd5340e999') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:49:54', '4fba6fd5c279940e29e593220734bc26380d1392b93e11656785d352f3ae34125101600ec0b4f49e1efb9f5b8f4412008a8c294a79b1947f8c5f021697acd85f', '2009-04-02 00:49:54', '8c36bfb8e94b2b67596ec4e0a9169d0823aa55c6c8a5eb1bf009176eea25282849cd8c2006fa86e30b3d4f1459f6415944f021093b1f656c576398c2ed0839c8', '8ee817d6c0c77cf9a37c3f23d6ce2b3e3ca1916ed7bf2cee8778d8e68d3920e78e1d26036f1d01650c845968bc2ec5bb35c67569fe9c2cc306a19ccd5340e999', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '8ee817d6c0c77cf9a37c3f23d6ce2b3e3ca1916ed7bf2cee8778d8e68d3920e78e1d26036f1d01650c845968bc2ec5bb35c67569fe9c2cc306a19ccd5340e999', "updated_at" = '2009-04-02 00:49:54', "created_at" = '2009-04-02 00:49:54', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '8c36bfb8e94b2b67596ec4e0a9169d0823aa55c6c8a5eb1bf009176eea25282849cd8c2006fa86e30b3d4f1459f6415944f021093b1f656c576398c2ed0839c8', "crypted_password" = '4fba6fd5c279940e29e593220734bc26380d1392b93e11656785d352f3ae34125101600ec0b4f49e1efb9f5b8f4412008a8c294a79b1947f8c5f021697acd85f' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:49:54) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '2331a46a3ced7d838141a042549194d6b1d970302a4fa177f551488cd74fa97b9a509b30c794702fb826a3feb94fb2c330f9b0cf7883fc58bfdeef25c54c0721') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:49:54', 'a828707dca259f9faeec8c1d7ee9722e9b3f6b351474a64efcd968ae6f24d0e2cd0de36123b96f47c415f1dc826188ce0b95a90150d8edcd41b019e149b6b376', '2009-04-02 00:49:54', '1d8f6c8cd5c308da3a8a580138819b1abac97a8653189a6b48d9a666c002461fbf9aa8b3d76701507ec16a6f730146b5417c58cde31f8ebc20f90a9072eaf299', '2331a46a3ced7d838141a042549194d6b1d970302a4fa177f551488cd74fa97b9a509b30c794702fb826a3feb94fb2c330f9b0cf7883fc58bfdeef25c54c0721', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.4ms)[0m   [0mUPDATE "users" SET "persistence_token" = '2331a46a3ced7d838141a042549194d6b1d970302a4fa177f551488cd74fa97b9a509b30c794702fb826a3feb94fb2c330f9b0cf7883fc58bfdeef25c54c0721', "updated_at" = '2009-04-02 00:49:54', "created_at" = '2009-04-02 00:49:54', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '1d8f6c8cd5c308da3a8a580138819b1abac97a8653189a6b48d9a666c002461fbf9aa8b3d76701507ec16a6f730146b5417c58cde31f8ebc20f90a9072eaf299', "crypted_password" = 'a828707dca259f9faeec8c1d7ee9722e9b3f6b351474a64efcd968ae6f24d0e2cd0de36123b96f47c415f1dc826188ce0b95a90150d8edcd41b019e149b6b376' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 03:49:54) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_3') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_3@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '80843bbb90b72ef892861120cdda88f02eb53b28046d448fae2a0ce30e32b0f2111f5e7db1ee01a8e48b10ecb185e0302b8e32d025c671e2fb85cfd53b7dd4f6') LIMIT 1[0m
+  [4;35;1mUser Create (0.3ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:49:54', 'bdb8f0c22dd91dc209ae26ae332f3ce369fa9088033214f9c9c0da17342f2ce40339226457044bcf125767181909272df89c6ac16ad7c5131e518ad3bc521e65', '2009-04-02 00:49:54', '658962920051f679532acbd35b9f550fbc06adec48744897b38f24dd12ba8813719a2f5cfe77c8737a0051024b6f01b5cd8557cd5150fde10e60ec4862df1e06', '80843bbb90b72ef892861120cdda88f02eb53b28046d448fae2a0ce30e32b0f2111f5e7db1ee01a8e48b10ecb185e0302b8e32d025c671e2fb85cfd53b7dd4f6', 'user_3', 'bangbang_3@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '80843bbb90b72ef892861120cdda88f02eb53b28046d448fae2a0ce30e32b0f2111f5e7db1ee01a8e48b10ecb185e0302b8e32d025c671e2fb85cfd53b7dd4f6', "updated_at" = '2009-04-02 00:49:54', "created_at" = '2009-04-02 00:49:54', "email" = 'bangbang_3@example.com', "login" = 'user_3', "password_salt" = '658962920051f679532acbd35b9f550fbc06adec48744897b38f24dd12ba8813719a2f5cfe77c8737a0051024b6f01b5cd8557cd5150fde10e60ec4862df1e06', "crypted_password" = 'bdb8f0c22dd91dc209ae26ae332f3ce369fa9088033214f9c9c0da17342f2ce40339226457044bcf125767181909272df89c6ac16ad7c5131e518ad3bc521e65' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:49:54) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_4') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_4@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '0141687fb40f28c0919eab3be800736a9c326cac029022132764c12b41b47e768c7a9c36c9fcd0c06484c452d45f386ebe198d2e029c3879886fc53f4254d0db') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 00:49:54', '9f9bf572bb8c65b67cfb8e1fca4473c234b4378f3588b3aa978febd0b22e2e18562af999b9e38cb7bb3c19498745b68e43e0cf3dcd13afc2dc79a6e2c9c5c9aa', '2009-04-02 00:49:54', '629665e7cb05b68370ca9222d0db18d5088cd7656addc1cffdbdf7203906eac59542d91af14662d223e32a7ddca8f53d5017bb299f3747df228f39a52a67e21d', '0141687fb40f28c0919eab3be800736a9c326cac029022132764c12b41b47e768c7a9c36c9fcd0c06484c452d45f386ebe198d2e029c3879886fc53f4254d0db', 'user_4', 'bangbang_4@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '0141687fb40f28c0919eab3be800736a9c326cac029022132764c12b41b47e768c7a9c36c9fcd0c06484c452d45f386ebe198d2e029c3879886fc53f4254d0db', "updated_at" = '2009-04-02 00:49:54', "created_at" = '2009-04-02 00:49:54', "email" = 'bangbang_4@example.com', "login" = 'user_4', "password_salt" = '629665e7cb05b68370ca9222d0db18d5088cd7656addc1cffdbdf7203906eac59542d91af14662d223e32a7ddca8f53d5017bb299f3747df228f39a52a67e21d', "crypted_password" = '9f9bf572bb8c65b67cfb8e1fca4473c234b4378f3588b3aa978febd0b22e2e18562af999b9e38cb7bb3c19498745b68e43e0cf3dcd13afc2dc79a6e2c9c5c9aa' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 03:49:54) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:01:52) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:01:52) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:03:17) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:03:17) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '612eecddb7c410bd8a315a45329b53ea5cb54ee91a32135bf5cec7e9a2e0881117e0b52563a12779a3d5d46c4d690e79da71734bada71539eb4af68be2d67a7f') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:03:17', '9c7ae917130146a21fd9189ec6f05384e734ff51ae15b738ab7cbb3e7a8f5e82cb7bcfa129dba7fd3cc76f3823d06bf8d4408cdba8fabc1908ab5bf244f716ca', '2009-04-02 01:03:17', 'b6b4ead5cbccd77f314320a13eb5d9d4a2ef8084a875b310eb0be6a254b2ad70697a91dd298fb6f01843e2732f0f861d2edf4085409b11429b62ef09d7f00a33', '612eecddb7c410bd8a315a45329b53ea5cb54ee91a32135bf5cec7e9a2e0881117e0b52563a12779a3d5d46c4d690e79da71734bada71539eb4af68be2d67a7f', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '612eecddb7c410bd8a315a45329b53ea5cb54ee91a32135bf5cec7e9a2e0881117e0b52563a12779a3d5d46c4d690e79da71734bada71539eb4af68be2d67a7f', "updated_at" = '2009-04-02 01:03:17', "created_at" = '2009-04-02 01:03:17', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = 'b6b4ead5cbccd77f314320a13eb5d9d4a2ef8084a875b310eb0be6a254b2ad70697a91dd298fb6f01843e2732f0f861d2edf4085409b11429b62ef09d7f00a33', "crypted_password" = '9c7ae917130146a21fd9189ec6f05384e734ff51ae15b738ab7cbb3e7a8f5e82cb7bcfa129dba7fd3cc76f3823d06bf8d4408cdba8fabc1908ab5bf244f716ca' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:03:17) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '9f460a5005607cb63f0a69aadb933d90d81906b0724f0ebe463cc70e295b37e599e98b6c6e213708dd7c4a918a50c1adaff2dc32a6376c29d32c523f9ff2872b') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:03:17', '255405addc8e7f09c19772c6e444c1f631202f6038a91365c54a6b27addde587c3176dc12c01dc8c8f71da09c77412c467fa04b8bef7dac03437d2aef6506be7', '2009-04-02 01:03:17', '32047ff30274a67462bbe4d08c79c8bb128c435e7152413620b3a84d0378d6be2861cb99688428d911fae809d44fd293f27a0c39191e14001cab4b21468cffb5', '9f460a5005607cb63f0a69aadb933d90d81906b0724f0ebe463cc70e295b37e599e98b6c6e213708dd7c4a918a50c1adaff2dc32a6376c29d32c523f9ff2872b', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '9f460a5005607cb63f0a69aadb933d90d81906b0724f0ebe463cc70e295b37e599e98b6c6e213708dd7c4a918a50c1adaff2dc32a6376c29d32c523f9ff2872b', "updated_at" = '2009-04-02 01:03:17', "created_at" = '2009-04-02 01:03:17', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '32047ff30274a67462bbe4d08c79c8bb128c435e7152413620b3a84d0378d6be2861cb99688428d911fae809d44fd293f27a0c39191e14001cab4b21468cffb5', "crypted_password" = '255405addc8e7f09c19772c6e444c1f631202f6038a91365c54a6b27addde587c3176dc12c01dc8c8f71da09c77412c467fa04b8bef7dac03437d2aef6506be7' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:03:17) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:03:17) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Completed in 1ms (DB: 0) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:03:41) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:03:41) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'ad46d484f8a52ef53e315c7c8197b1c40012596541ab78bf62c66f1ef2b4ed8e1316fdd2c85c2c90abb40e94ad6a5b93e5186931a638fdfba078b2dd01186dea') LIMIT 1[0m
+  [4;35;1mUser Create (0.4ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:03:41', 'dc3e9bf36545f558ec512a010972414f7c740cb7009be8046f9470897f977b45ee3c0dd060d9cab2bba2685f90abb0574d8cf7050a73917c4b89bd049a3c4287', '2009-04-02 01:03:41', '8ed50156b9000889d983866cf8ed2c94ad4fedb970657b8196614d4022bf7350018f8b94fe87e722ddf46afd3904d77c44e32de19b4b626b9c1240418a610a7b', 'ad46d484f8a52ef53e315c7c8197b1c40012596541ab78bf62c66f1ef2b4ed8e1316fdd2c85c2c90abb40e94ad6a5b93e5186931a638fdfba078b2dd01186dea', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = 'ad46d484f8a52ef53e315c7c8197b1c40012596541ab78bf62c66f1ef2b4ed8e1316fdd2c85c2c90abb40e94ad6a5b93e5186931a638fdfba078b2dd01186dea', "updated_at" = '2009-04-02 01:03:41', "created_at" = '2009-04-02 01:03:41', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '8ed50156b9000889d983866cf8ed2c94ad4fedb970657b8196614d4022bf7350018f8b94fe87e722ddf46afd3904d77c44e32de19b4b626b9c1240418a610a7b', "crypted_password" = 'dc3e9bf36545f558ec512a010972414f7c740cb7009be8046f9470897f977b45ee3c0dd060d9cab2bba2685f90abb0574d8cf7050a73917c4b89bd049a3c4287' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:03:41) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '4bdfc76ebc7a05fef182adabe4bb8dbd4f92a9d55f12273691364a8088129c7d7e9c71c2defcad79ef24db9a6c16e4109e4ee18a776a1acdf879a6fac923786b') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:03:41', '6ddf85f0efaca61d44acc7a4c995383297ed6fea3cdd57a4ea546e7475ce5a0f4f2df861d5f7db9ab393a0eaa3266de313233cfc66529d5f82afa10db6132008', '2009-04-02 01:03:41', 'c1d2f181491b17883e2c09f8c88c8549d5c8f6d51b00bed576e28498239736c63921504f8cb4fd6c08b59b719b43e44fe1abb66bb6b3897dc0ef56a5ef1b8ee3', '4bdfc76ebc7a05fef182adabe4bb8dbd4f92a9d55f12273691364a8088129c7d7e9c71c2defcad79ef24db9a6c16e4109e4ee18a776a1acdf879a6fac923786b', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '4bdfc76ebc7a05fef182adabe4bb8dbd4f92a9d55f12273691364a8088129c7d7e9c71c2defcad79ef24db9a6c16e4109e4ee18a776a1acdf879a6fac923786b', "updated_at" = '2009-04-02 01:03:41', "created_at" = '2009-04-02 01:03:41', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = 'c1d2f181491b17883e2c09f8c88c8549d5c8f6d51b00bed576e28498239736c63921504f8cb4fd6c08b59b719b43e44fe1abb66bb6b3897dc0ef56a5ef1b8ee3', "crypted_password" = '6ddf85f0efaca61d44acc7a4c995383297ed6fea3cdd57a4ea546e7475ce5a0f4f2df861d5f7db9ab393a0eaa3266de313233cfc66529d5f82afa10db6132008' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:03:41) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:03:41) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Completed in 1ms (DB: 0) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:06:22) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:06:22) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '9dba58c460c2175f2bd14b200a4486dadf8408ebd870df5bd37b4ad4494428272b9298f1acd27aa291409b0909bdb798e557eea11765f3286b8062c54526dfb6') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:06:22', '30b838d33df3bdc0a9b842f26dc2599acd80ed8026daeee6a13a0edbbe4e39f436080f8d1fe9e0bfb4e75347b0f8ca16b43ce4ebd456da13f39940665ab74546', '2009-04-02 01:06:22', '5ac6fd9e4a4eb1febc12295a3d0004c7766174f0a2dab033235c1edc290bdd4b9028cadbaccf5b863b53437b3e395c62b5fc15ccac5b913e291077b2634e08dc', '9dba58c460c2175f2bd14b200a4486dadf8408ebd870df5bd37b4ad4494428272b9298f1acd27aa291409b0909bdb798e557eea11765f3286b8062c54526dfb6', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.1ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '9dba58c460c2175f2bd14b200a4486dadf8408ebd870df5bd37b4ad4494428272b9298f1acd27aa291409b0909bdb798e557eea11765f3286b8062c54526dfb6', "updated_at" = '2009-04-02 01:06:22', "created_at" = '2009-04-02 01:06:22', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '5ac6fd9e4a4eb1febc12295a3d0004c7766174f0a2dab033235c1edc290bdd4b9028cadbaccf5b863b53437b3e395c62b5fc15ccac5b913e291077b2634e08dc', "crypted_password" = '30b838d33df3bdc0a9b842f26dc2599acd80ed8026daeee6a13a0edbbe4e39f436080f8d1fe9e0bfb4e75347b0f8ca16b43ce4ebd456da13f39940665ab74546' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:06:22) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.7ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '8d8d10e0f7cb3509fd1efe2348e41ee38399499ae9ebecd1a6f9eb12332dca063d74c9d6b006536a4c522047e390e446ca6f3b99ab0b08bc8e19a20f29b6b5ee') LIMIT 1[0m
+  [4;36;1mUser Create (0.4ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:06:22', '649cafbc5ebdde053900277ff4c3aa77a4c7832884cc64520ece2efbb96515c9cfbb054b5c085c0c4965d273c75d90d593eb771ba834364f1cb655bbbdd234b5', '2009-04-02 01:06:22', '552ee32f7040c86b34c8f7abd7c0763b4b0995bd75bbc0bd9ddc2bbc071ba5c878697045f90614406f8ee478b69620aebf8f319dcb8b00b95c370d9ba7f95f12', '8d8d10e0f7cb3509fd1efe2348e41ee38399499ae9ebecd1a6f9eb12332dca063d74c9d6b006536a4c522047e390e446ca6f3b99ab0b08bc8e19a20f29b6b5ee', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.2ms)[0m   [0mUPDATE "users" SET "persistence_token" = '8d8d10e0f7cb3509fd1efe2348e41ee38399499ae9ebecd1a6f9eb12332dca063d74c9d6b006536a4c522047e390e446ca6f3b99ab0b08bc8e19a20f29b6b5ee', "updated_at" = '2009-04-02 01:06:22', "created_at" = '2009-04-02 01:06:22', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '552ee32f7040c86b34c8f7abd7c0763b4b0995bd75bbc0bd9ddc2bbc071ba5c878697045f90614406f8ee478b69620aebf8f319dcb8b00b95c370d9ba7f95f12', "crypted_password" = '649cafbc5ebdde053900277ff4c3aa77a4c7832884cc64520ece2efbb96515c9cfbb054b5c085c0c4965d273c75d90d593eb771ba834364f1cb655bbbdd234b5' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:06:22) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 2) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:06:22) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Completed in 1ms (DB: 0) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:07:38) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:07:38) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '85e15b9916373a4b038cdcc6838851bd7d5e7a5d36a5c064a7bab28c9755d58b9a662e35d7cc7902b44d1127cb9ec30f2e82cae6755096abc8b98707aaf55a89') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:07:38', '89733cee70e0f9b5c35e336acdad5d9f7ef30ac87628e721cb10b93fc8acf2d5dc3546eebf3d37ceb7c2cc885e0a3ae8b2426e52a5571b7e089fceb4a96f5ee2', '2009-04-02 01:07:38', 'f8fbd2d0d4734ffbc7fc4343973572a07ac9a2201c9d07c4600c7093f878a2db50a73ce9d58f80ef16f8bd2222ade103a859512237697ba7e558d4b13d88276d', '85e15b9916373a4b038cdcc6838851bd7d5e7a5d36a5c064a7bab28c9755d58b9a662e35d7cc7902b44d1127cb9ec30f2e82cae6755096abc8b98707aaf55a89', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '85e15b9916373a4b038cdcc6838851bd7d5e7a5d36a5c064a7bab28c9755d58b9a662e35d7cc7902b44d1127cb9ec30f2e82cae6755096abc8b98707aaf55a89', "updated_at" = '2009-04-02 01:07:38', "created_at" = '2009-04-02 01:07:38', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = 'f8fbd2d0d4734ffbc7fc4343973572a07ac9a2201c9d07c4600c7093f878a2db50a73ce9d58f80ef16f8bd2222ade103a859512237697ba7e558d4b13d88276d', "crypted_password" = '89733cee70e0f9b5c35e336acdad5d9f7ef30ac87628e721cb10b93fc8acf2d5dc3546eebf3d37ceb7c2cc885e0a3ae8b2426e52a5571b7e089fceb4a96f5ee2' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:07:38) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'a4e513eb9e4db4cc62771eb6d3f8c9dfeece22259dec622a054c20dc47bc9745b7d045d054d7413843ff69c1118d2623bfaf468aed9a1c28ccbe61eccbc798ee') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:07:38', '0bf469533b656c7f24f015c8ae7ce801e8f8162359a618790607133f06b1833f61e2131161fc21cbfb5dc3f379892c513880dced088131e63004fa339ec9bffb', '2009-04-02 01:07:38', '6a13c2b2eaf97330485e82e213c605793e6b60e3fe5b8b30cf4baa1445c08c524082ac2e3e21ea5477cf37cb318fee6e9d714f816583d822676b0d05ba4c4227', 'a4e513eb9e4db4cc62771eb6d3f8c9dfeece22259dec622a054c20dc47bc9745b7d045d054d7413843ff69c1118d2623bfaf468aed9a1c28ccbe61eccbc798ee', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = 'a4e513eb9e4db4cc62771eb6d3f8c9dfeece22259dec622a054c20dc47bc9745b7d045d054d7413843ff69c1118d2623bfaf468aed9a1c28ccbe61eccbc798ee', "updated_at" = '2009-04-02 01:07:38', "created_at" = '2009-04-02 01:07:38', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '6a13c2b2eaf97330485e82e213c605793e6b60e3fe5b8b30cf4baa1445c08c524082ac2e3e21ea5477cf37cb318fee6e9d714f816583d822676b0d05ba4c4227', "crypted_password" = '0bf469533b656c7f24f015c8ae7ce801e8f8162359a618790607133f06b1833f61e2131161fc21cbfb5dc3f379892c513880dced088131e63004fa339ec9bffb' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:07:38) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:07:38) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Completed in 1ms (DB: 0) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:08:53) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:08:53) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '7b42f2009cb267576f1f1844076cdb133f332e1deda1b29be74cfbe7eb431304db5f3da6acc355a9ae92680e06afe16b635eb5de9623ed1ad6988a5048bb7fa6') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:08:53', 'd815dce6adc3ed059cc639fa2a68183df104208a57e538e5de5556ebe955851d8464f85691d3a556f081aff2780f45acfdc5c2612f626ced8a7cf0e3a10cb19e', '2009-04-02 01:08:53', 'df28becd22ecabfb5d6c380fcb84408800a2a146304ed3557837a6f14c42df3041f1e28b9ced8b4a4b8ccee49b454505789aa07129c13df98bdb18a1177f2a37', '7b42f2009cb267576f1f1844076cdb133f332e1deda1b29be74cfbe7eb431304db5f3da6acc355a9ae92680e06afe16b635eb5de9623ed1ad6988a5048bb7fa6', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '7b42f2009cb267576f1f1844076cdb133f332e1deda1b29be74cfbe7eb431304db5f3da6acc355a9ae92680e06afe16b635eb5de9623ed1ad6988a5048bb7fa6', "updated_at" = '2009-04-02 01:08:53', "created_at" = '2009-04-02 01:08:53', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = 'df28becd22ecabfb5d6c380fcb84408800a2a146304ed3557837a6f14c42df3041f1e28b9ced8b4a4b8ccee49b454505789aa07129c13df98bdb18a1177f2a37', "crypted_password" = 'd815dce6adc3ed059cc639fa2a68183df104208a57e538e5de5556ebe955851d8464f85691d3a556f081aff2780f45acfdc5c2612f626ced8a7cf0e3a10cb19e' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:08:53) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.3ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '8b9c90cc8a1cffafeec6027017ee043137e7e287da8bc25a8882066698452948a7d2e51d9e833a9d8669af4ff0e5172a5cce00b7e68f8b691663ecb9f40b0686') LIMIT 1[0m
+  [4;36;1mUser Create (0.9ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:08:53', 'f4e8ee4bd91dc7870380475c055ee2725b0c7df138844826678e066bc83a0c49fc2fa48767c8a880478f0c7f089f78e40f111ebabbbdae5136dfe16a047641b2', '2009-04-02 01:08:53', 'b8b2000cd1fc1bab3b17af1f3d1cfcf8923547f00149997a966b0f6332092740504a23605210be328086316eaa587ec7c2a9075351a5ea8dfbb3b71bb46c62d4', '8b9c90cc8a1cffafeec6027017ee043137e7e287da8bc25a8882066698452948a7d2e51d9e833a9d8669af4ff0e5172a5cce00b7e68f8b691663ecb9f40b0686', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '8b9c90cc8a1cffafeec6027017ee043137e7e287da8bc25a8882066698452948a7d2e51d9e833a9d8669af4ff0e5172a5cce00b7e68f8b691663ecb9f40b0686', "updated_at" = '2009-04-02 01:08:53', "created_at" = '2009-04-02 01:08:53', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = 'b8b2000cd1fc1bab3b17af1f3d1cfcf8923547f00149997a966b0f6332092740504a23605210be328086316eaa587ec7c2a9075351a5ea8dfbb3b71bb46c62d4', "crypted_password" = 'f4e8ee4bd91dc7870380475c055ee2725b0c7df138844826678e066bc83a0c49fc2fa48767c8a880478f0c7f089f78e40f111ebabbbdae5136dfe16a047641b2' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:08:53) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 65ms (DB: 2) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:08:53) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Completed in 1ms (DB: 0) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:09:46) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:09:46) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'e4cfc40bd09589eaabcfec61d5ab5845284234900a9e105c49b3e61179d1c802a80763b59baca27f6f09cc75f2717ccccf4003530b8d5d64be47e48341ac4c17') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:09:46', '28d3044716aba4117a44db92e96754556458562ab7dc6efdb37b8f9712cbc924b0d3185938bf95e10fdd0a95a60b50552f378f95122b5d63b2d9102abdf4c1df', '2009-04-02 01:09:46', 'b75d12d2d0a7d736d3dea42a7355e5c7e0cd55708a3aea7ab359213df818ea260735a21cd0a79471f0c0ea77baeb10395e89ed0614070f860837fc1cc4660302', 'e4cfc40bd09589eaabcfec61d5ab5845284234900a9e105c49b3e61179d1c802a80763b59baca27f6f09cc75f2717ccccf4003530b8d5d64be47e48341ac4c17', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = 'e4cfc40bd09589eaabcfec61d5ab5845284234900a9e105c49b3e61179d1c802a80763b59baca27f6f09cc75f2717ccccf4003530b8d5d64be47e48341ac4c17', "updated_at" = '2009-04-02 01:09:46', "created_at" = '2009-04-02 01:09:46', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = 'b75d12d2d0a7d736d3dea42a7355e5c7e0cd55708a3aea7ab359213df818ea260735a21cd0a79471f0c0ea77baeb10395e89ed0614070f860837fc1cc4660302', "crypted_password" = '28d3044716aba4117a44db92e96754556458562ab7dc6efdb37b8f9712cbc924b0d3185938bf95e10fdd0a95a60b50552f378f95122b5d63b2d9102abdf4c1df' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:09:46) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.4ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '11f23cff911907ce41ede6dcb6a311b963e358e1a8456afc6ccfc38685bb92ffc6929e8a08fc923c739509994788d67ea70ee7b231396c132c5eeedc39822020') LIMIT 1[0m
+  [4;36;1mUser Create (0.3ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:09:46', '99c41acd09b815fc6d505398e26b639b11eb8f9f350e06b02243d3ae707348113f0b903f8752b658a4f0c39b48dea7cacedb798908adbd2a45de924781779303', '2009-04-02 01:09:46', '2bf3c70d11b7b2ee896cf0e1c93bd5276b0f7eb18e0a1059500707a694363a6f34daaf9e9a59839e2333a5009aec1eb30469dd98645dc4292543180e05b83078', '11f23cff911907ce41ede6dcb6a311b963e358e1a8456afc6ccfc38685bb92ffc6929e8a08fc923c739509994788d67ea70ee7b231396c132c5eeedc39822020', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '11f23cff911907ce41ede6dcb6a311b963e358e1a8456afc6ccfc38685bb92ffc6929e8a08fc923c739509994788d67ea70ee7b231396c132c5eeedc39822020', "updated_at" = '2009-04-02 01:09:46', "created_at" = '2009-04-02 01:09:46', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '2bf3c70d11b7b2ee896cf0e1c93bd5276b0f7eb18e0a1059500707a694363a6f34daaf9e9a59839e2333a5009aec1eb30469dd98645dc4292543180e05b83078', "crypted_password" = '99c41acd09b815fc6d505398e26b639b11eb8f9f350e06b02243d3ae707348113f0b903f8752b658a4f0c39b48dea7cacedb798908adbd2a45de924781779303' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:09:46) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 58ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:09:46) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Completed in 1ms (DB: 0) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:10:45) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 4ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:10:45) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '0f41c0a29e2316a440e7728e7198421b6eb7c89bad1177dd85ba8db58863aed0979378ec57e26dc3561028c52e5648ab9c7be632a127f9bb1c498e7f3f88792f') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:10:45', '32ec3d353a4114585a9803375ee8670b96b0d68fae4d4c57e57cd5195699757903afe089d82a4231364689d15ed42aa9dc09760489830fb6dfb92a0fdb0e3e4c', '2009-04-02 01:10:45', '883702b2b53bd08cad8961e8e7e7d27dde94c1b1fca2c9ba89531299ae9caaa975c6ec9b4767b7e5c3bcd856be3ebbb678ba79ba6ce9d1364126de5505b32eaa', '0f41c0a29e2316a440e7728e7198421b6eb7c89bad1177dd85ba8db58863aed0979378ec57e26dc3561028c52e5648ab9c7be632a127f9bb1c498e7f3f88792f', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.2ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '0f41c0a29e2316a440e7728e7198421b6eb7c89bad1177dd85ba8db58863aed0979378ec57e26dc3561028c52e5648ab9c7be632a127f9bb1c498e7f3f88792f', "updated_at" = '2009-04-02 01:10:45', "created_at" = '2009-04-02 01:10:45', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '883702b2b53bd08cad8961e8e7e7d27dde94c1b1fca2c9ba89531299ae9caaa975c6ec9b4767b7e5c3bcd856be3ebbb678ba79ba6ce9d1364126de5505b32eaa', "crypted_password" = '32ec3d353a4114585a9803375ee8670b96b0d68fae4d4c57e57cd5195699757903afe089d82a4231364689d15ed42aa9dc09760489830fb6dfb92a0fdb0e3e4c' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:10:45) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.4ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = 'f49c1694b0a6d87b0cf68c405b5587216527fc4aae3095c23a2215503f61f01032c1b1f1a6e46efcacd671f5920d7d2cd23a7799a5a1770a96a8ca79dffd1f29') LIMIT 1[0m
+  [4;36;1mUser Create (0.4ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:10:45', '0009c686c31685d5ecbcc0ff2cc012c95d5abd637b0db246ce171f052fa535492ac67800ee2ba7de3163d92357f0c656af1451a9dd3ed88d5f6773cdd277752f', '2009-04-02 01:10:45', '1e453c7908dd3694ca520ceba01ea9bedd0742e68e4dc3f4871cd56cc81c148e9dc5e71d1c68c7162a621a72c004c9f0f35d31fad20e8781a86373116c1262dd', 'f49c1694b0a6d87b0cf68c405b5587216527fc4aae3095c23a2215503f61f01032c1b1f1a6e46efcacd671f5920d7d2cd23a7799a5a1770a96a8ca79dffd1f29', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.2ms)[0m   [0mUPDATE "users" SET "persistence_token" = 'f49c1694b0a6d87b0cf68c405b5587216527fc4aae3095c23a2215503f61f01032c1b1f1a6e46efcacd671f5920d7d2cd23a7799a5a1770a96a8ca79dffd1f29', "updated_at" = '2009-04-02 01:10:45', "created_at" = '2009-04-02 01:10:45', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = '1e453c7908dd3694ca520ceba01ea9bedd0742e68e4dc3f4871cd56cc81c148e9dc5e71d1c68c7162a621a72c004c9f0f35d31fad20e8781a86373116c1262dd', "crypted_password" = '0009c686c31685d5ecbcc0ff2cc012c95d5abd637b0db246ce171f052fa535492ac67800ee2ba7de3163d92357f0c656af1451a9dd3ed88d5f6773cdd277752f' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:10:45) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 59ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:10:45) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Completed in 1ms (DB: 0) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:28:39) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:28:39) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session/new]
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_1') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_1@example.com') LIMIT 1[0m
+  [4;36;1mUser Exists (0.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '7278b3e9e0c32f82878b1a2ebf7cc3f14c0d7b7b83c0a91da67a20a4a554de0020935b7c7f087574ce87d60da0ef209780a2c33356b7ee3ef6ec9c87ba56cfe5') LIMIT 1[0m
+  [4;35;1mUser Create (0.6ms)[0m   [0mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:28:39', '435d88923f2cfa66ebfddcc4dbc30b0b4c7d9dd904055efe0771b218f9b0ccaa61ce3184ecab912b4c7c4d6bc5ac7cc12a9e08631509af2c5299e5d3625ceda1', '2009-04-02 01:28:39', '22445f7258e6904ce0e0c2c83a74176f2a66dd34506550274ec79f82714a747744d0200b4a67de8f47724ae98d176eb4e5fe953d3a75f4a3ddded929909a2141', '7278b3e9e0c32f82878b1a2ebf7cc3f14c0d7b7b83c0a91da67a20a4a554de0020935b7c7f087574ce87d60da0ef209780a2c33356b7ee3ef6ec9c87ba56cfe5', 'user_1', 'bangbang_1@example.com')[0m
+  [4;36;1mUser Update (0.6ms)[0m   [0;1mUPDATE "users" SET "persistence_token" = '7278b3e9e0c32f82878b1a2ebf7cc3f14c0d7b7b83c0a91da67a20a4a554de0020935b7c7f087574ce87d60da0ef209780a2c33356b7ee3ef6ec9c87ba56cfe5', "updated_at" = '2009-04-02 01:28:39', "created_at" = '2009-04-02 01:28:39', "email" = 'bangbang_1@example.com', "login" = 'user_1', "password_salt" = '22445f7258e6904ce0e0c2c83a74176f2a66dd34506550274ec79f82714a747744d0200b4a67de8f47724ae98d176eb4e5fe953d3a75f4a3ddded929909a2141', "crypted_password" = '435d88923f2cfa66ebfddcc4dbc30b0b4c7d9dd904055efe0771b218f9b0ccaa61ce3184ecab912b4c7c4d6bc5ac7cc12a9e08631509af2c5299e5d3625ceda1' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#new (for 0.0.0.0 at 2009-04-02 04:28:39) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 2) | 302 Found [http://test.host/user_session/new]
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = 'user_2') LIMIT 1[0m
+  [4;36;1mUser Exists (0.2ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'bangbang_2@example.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.1ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."persistence_token" = '417ce8279b6d20eaa9c678123d2823836376cb2b48e8a391a6493721d49b676151ffc5b1e20891fc53a83d7558ad9341f8c1fbd6d29f2a1d4942df3a1b2a4d76') LIMIT 1[0m
+  [4;36;1mUser Create (0.4ms)[0m   [0;1mINSERT INTO "users" ("created_at", "crypted_password", "updated_at", "password_salt", "persistence_token", "login", "email") VALUES('2009-04-02 01:28:39', '4529122d8b27aa69b90b86fc3b54f7e0b6ab51895791e9986499788ccbf298e66d0b68ac4d5a054d361ce17947773f5254e43bb020c5c02d0ce2cd91afc385da', '2009-04-02 01:28:39', 'ce5803e1b3ef2cefec18a83f048dffe3e3890a6f679341d2a9f233a7a9f5220750bb257196e2374151ff603ee39888d42b6191e6276be10dc70b175dd6c44e11', '417ce8279b6d20eaa9c678123d2823836376cb2b48e8a391a6493721d49b676151ffc5b1e20891fc53a83d7558ad9341f8c1fbd6d29f2a1d4942df3a1b2a4d76', 'user_2', 'bangbang_2@example.com')[0m
+  [4;35;1mUser Update (0.1ms)[0m   [0mUPDATE "users" SET "persistence_token" = '417ce8279b6d20eaa9c678123d2823836376cb2b48e8a391a6493721d49b676151ffc5b1e20891fc53a83d7558ad9341f8c1fbd6d29f2a1d4942df3a1b2a4d76', "updated_at" = '2009-04-02 01:28:39', "created_at" = '2009-04-02 01:28:39', "email" = 'bangbang_2@example.com', "login" = 'user_2', "password_salt" = 'ce5803e1b3ef2cefec18a83f048dffe3e3890a6f679341d2a9f233a7a9f5220750bb257196e2374151ff603ee39888d42b6191e6276be10dc70b175dd6c44e11', "crypted_password" = '4529122d8b27aa69b90b86fc3b54f7e0b6ab51895791e9986499788ccbf298e66d0b68ac4d5a054d361ce17947773f5254e43bb020c5c02d0ce2cd91afc385da' WHERE "id" = 1[0m
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:28:39) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Filter chain halted as [:require_no_user] rendered_or_redirected.
+Completed in 0ms (DB: 1) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:28:39) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Redirected to http://test.host/account
+Completed in 1ms (DB: 0) | 302 Found [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:28:39) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session]
+
+
+Processing UserSessionsController#create (for 0.0.0.0 at 2009-04-02 04:28:39) [POST]
+  Parameters: {"action"=>"create", "controller"=>"user_sessions"}
+Rendering user_sessions/new
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://test.host/user_session]
