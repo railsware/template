@@ -25,17 +25,6 @@ Rails::Initializer.run do |config|
              :lib => 'will_paginate', 
              :source => 'http://gems.github.com',
              :version => '~> 2.2.3'
-  config.gem 'thoughtbot-factory_girl',  
-             :lib => false,  
-             :source => 'http://gems.github.com'  
-  # config.gem 'thoughtbot-shoulda',
-  #            :lib => false,  
-  #            :source => 'http://gems.github.com'
-  config.gem 'carlosbrando-remarkable',
-             :lib => false,
-             :source => 'http://gems.github.com'  
-  config.gem 'rspec',
-             :lib => false
   config.gem 'authlogic'
   
   config.gem "be9-acl9", 

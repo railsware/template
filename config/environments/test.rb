@@ -28,6 +28,15 @@ config.action_mailer.delivery_method = :test
 # config.active_record.schema_format = :sql
 
 # Test suite settings
-config.gem 'mocha', :version => '>= 0.9.5'
-config.gem 'thoughtbot-factory_girl', :lib => 'factory_girl', :source => 'http://gems.github.com', :version => '>= 1.2.0'
-config.gem 'thoughtbot-shoulda', :lib => 'shoulda', :source => 'http://gems.github.com',:version => '>= 2.10.1'
+config.gem 'rspec',
+            :lib => false
+config.gem "rspec-rails",
+            :lib => false
+config.gem 'thoughtbot-factory_girl',  
+           :lib => false,  
+           :source => 'http://gems.github.com'  
+config.gem 'carlosbrando-remarkable',
+           :lib => false,
+           :source => 'http://gems.github.com'  
+config.gem 'mocha',
+            :version => '>= 0.9.5'
