@@ -5,7 +5,7 @@ module Admin
     end
 
     def index
-      @users = User.all
+      @users = User.paginate(:page => params[:page], :order => '`created_at` DESC')
     end
   end
 end
