@@ -1,8 +1,60 @@
-<h1>Users list</h1>
-<ul>
-  <% for user in @users %>
-    <li><%= user.login %></li>
-  <% end -%>
-</ul>
+<div class="block">
+  <div class="secondary-navigation">
+    <ul>
+      <li class="first active"><%= link_to 'List', admin_users_path %></li>
+      <li><%= link_to 'New', new_admin_user_path %></li>
+    </ul>
+    <div class="clear"></div>
+  </div>          
+  <div class="content">          
+    <h2 class="title">All users</h2>
+    <div class="inner">
+      <% form_tag "", :class => :form do -%>
+        <table class="table">
+          <tr>             
+            <th class="first">ID</th>
+            <th>Login</th>
+			<th>Roles</th>
+            <th>Created at</th>
+            <th class="last">&nbsp;</th>
+          </tr>
+          <% @users.each do |user| -%>
+          <tr>
+            <td>
+              <%= user.id %>
+            </td>
+            <td>
+              <%= link_to user.login, admin_user_path(user) %>
+            </td>
+			<td>
+				<% if (user.roles.size > 0) %>
+				<ul>
+				<% user.roles.each do |role| %>
+				<li><%= role.name %></li>
+				<% end -%>
+				</ul>
+				<% else %>&nbsp;<% end %>
+			</td>
+            <td>
+              <%= user.created_at %>
+            </td>
+            <td class="last">
+              <%= link_to 'show', admin_user_path(user) %> |
+              <%= link_to 'edit', edit_admin_user_path(user) %> |
+              <%= link_to 'destroy', admin_user_path(user), :method => :delete, :confirm => 'Are you sure?' %>
+            </td>
+          </tr>          
+          <% end -%>
+        </table>
+        <div class="actions-bar">
+          <div class="actions">
+          </div>
+          <%= will_paginate @user  %>
+          <div class="clear"></div>
+        </div>
+      <% end -%>
+    </div>
+  </div>
+</div>
 
-<%= link_to 'Back', root_url %>
+<% content_for :sidebar, render(:partial => 'admin/sidebar') -%>

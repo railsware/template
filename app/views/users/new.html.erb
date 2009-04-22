@@ -1,26 +1,61 @@
-<h1>Register user</h1>
-
-<% form_for @user, :url => users_path do |u| %>
-  <%= u.error_messages %>
-  <p>
-    <%= u.label :login %>
-    <%= u.text_field :login %>
-  </p>
-  
-  <p>
-    <%= u.label :email %>
-    <%= u.text_field :email %>
-  </p>
-  
-  <p>
-    <%= u.label :password %>
-    <%= u.password_field :password %>
-  </p>
-  
-  <p>
-    <%= u.label :password_confirmation %>
-    <%= u.password_field :password_confirmation %>
-  </p>
-  
-  <%= submit_tag 'Sign up' %>
-<% end -%>
+<h1><%#= options[:app_name] %></h1>
+<div class="block" id="block-signup">
+  <h2>Sign up</h2>        
+  <div class="content">
+    <div class="flash">
+      <% flash.each do |type, message| %>
+      <div class="message <%= type %>">
+        <p><%= message %></p>
+      </div>
+      <% end %>
+    </div>
+    <% form_for @user, :url => users_path, :html => { :class => 'form' } do |f| %>
+<%#= f.error_messages %>      
+<div class="group">
+        <div class="left">
+			<label class="label">Login</label>
+			<%= error_message_on :user, :login, :css_class => "error" %>
+        </div>
+        <div class="right">
+          <%= f.text_field :login, :class => 'text_field' %>
+        </div>              
+        <div class="clear"></div>
+      </div>
+      <div class="group">
+        <div class="left">
+			<label class="label">Email</label>
+			<%= error_message_on :user, :email, :css_class => "error" %>
+        </div>
+        <div class="right">
+          <%= f.text_field :email, :class => 'text_field' %>
+        </div>              
+        <div class="clear"></div>
+      </div>
+      <div class="group">
+        <div class="left">
+			<label class="label">Password</label>
+			<%= error_message_on :user, :password, :css_class => "error" %>
+        </div>
+        <div class="right">
+          <%= f.password_field :password, :class => 'text_field' %>
+        </div>              
+        <div class="clear"></div>
+      </div>
+      
+      <div class="group">
+        <div class="left">
+			<label class="label">Password</label>
+			<%= error_message_on :user, :password_confirmation, :css_class => "error" %>
+        </div>
+        <div class="right">
+          <%= f.password_field :password_confirmation, :class => 'text_field' %>
+        </div>              
+        <div class="clear"></div>
+      </div>
+      
+      <div class="group navform">
+        <input type="submit" class="button" value="Sign up" />
+      </div>
+    <% end %>
+  </div>
+</div>
