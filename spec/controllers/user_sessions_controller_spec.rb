@@ -1,7 +1,9 @@
 require File.dirname(__FILE__) + '/../spec_helper'
 
 describe UserSessionsController do
+  #Testing authentication form
   describe 'get new' do
+    # The form should work only for users that are not authenticated
     describe 'being anonymous' do
       before(:each) do
         logout
@@ -15,6 +17,7 @@ describe UserSessionsController do
       # should_have_form :user_session
     end
     
+    # Authenticated users should not be able to re-register
     describe 'being logged in' do
       before(:each) do
         login
@@ -25,6 +28,7 @@ describe UserSessionsController do
     end
   end
   
+  #Logged in users should not re-login
   describe 'logging in' do
     describe 'being logged in' do
       before(:each) do
@@ -40,11 +44,12 @@ describe UserSessionsController do
     describe 'with valid credentials' do
       before(:each) do
         logout
+        # Session should be saved before proceeding
         UserSession.any_instance.expects(:save).returns(true)
         post :create
       end
       
-      should_redirect_to { account_url }
+      should_redirect_to { root_url }
     end
     
     describe 'supplying invalid credentials' do

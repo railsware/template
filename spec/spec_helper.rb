@@ -8,6 +8,7 @@ require 'spec/rails'
 require 'factory_girl'
 require 'remarkable'
 
+require File.dirname(__FILE__) + "/factories"
 require File.join(File.dirname(__FILE__), *%w[authlogic_spec_helper])
 
 Spec::Runner.configure do |config|
