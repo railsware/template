@@ -13,7 +13,7 @@
         <ul>
           <li><a href="#">Profile</a></li>
           <li><a href="#">Settings</a></li>
-          <li><%= link_to "Logout", :controller => "user_sessions", :action => "destroy" %></li>
+          <li><%= link_to 'logout', user_session_path, :method => :delete %></li>
         </ul>
         <div class="clear"></div>
       </div>      
