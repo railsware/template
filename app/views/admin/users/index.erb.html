@@ -27,7 +27,7 @@
               <%= link_to user.login, admin_user_path(user) %>
             </td>
 			<td>
-				<% if (user.roles.size > 0) %>
+				<% unless user.roles.empty? %>
 				<ul>
 				<% user.roles.each do |role| %>
 				<li><%= role.name %></li>
