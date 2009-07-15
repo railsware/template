@@ -4,8 +4,6 @@
 class ApplicationController < ActionController::Base
   helper :all # include all helpers, all the time
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
-  include ExceptionNotifiable
-  # Uncomment this only for exception_notification testing
   # local_addresses.clear
 
   filter_parameter_logging :password, :password_confirmation

@@ -58,11 +58,5 @@ Rails::Initializer.run do |config|
   # config.i18n.default_locale = :de
 end
 
-ExceptionNotifier.sender_address = %("Application Error" <app.error@railsware.com>)
-ExceptionNotifier.exception_recipients = %w(dev5@railsware.com dev6@railsware.com)
-
-# defaults to "[ERROR] "
-# ExceptionNotifier.email_prefix = "[APP] "
-
 #Automatic launch of Less JS routes
 Less::JsRoutes.generate!
