@@ -61,3 +61,6 @@ ExceptionNotifier.exception_recipients = %w(dev5@railsware.com dev6@railsware.co
 
 # defaults to "[ERROR] "
 # ExceptionNotifier.email_prefix = "[APP] "
+
+#Automatic launch of Less JS routes
+Less::JsRoutes.generate!
