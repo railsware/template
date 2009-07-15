@@ -1,0 +1,3 @@
+# Set local path to ImageMagick executable
+# Required by Paperclip to run properly from some environments
+#Paperclip.options[:image_magick_path] = '/opt/local/bin'
