@@ -33,3 +33,5 @@ config.gem "rspec-rails",      :lib => false
 config.gem "remarkable_rails", :lib => false
 config.gem 'thoughtbot-factory_girl',  :lib => false, :source => 'http://gems.github.com'  
 config.gem 'mocha', :version => '>= 0.9.5'
+config.gem 'nokogiri' #required by webrat
+config.gem 'webrat'

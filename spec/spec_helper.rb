@@ -10,6 +10,11 @@ require 'factory_girl'
 require File.dirname(__FILE__) + "/factories"
 require File.join(File.dirname(__FILE__), *%w[authlogic_spec_helper])
 
+ require "webrat"
+  Webrat.configure do |config|
+   config.mode = :rails
+ end
+
 Spec::Runner.configure do |config|
   # If you're not using ActiveRecord you should remove these
   # lines, delete config/database.yml and disable :active_record
@@ -49,4 +54,8 @@ Spec::Runner.configure do |config|
   # == Notes
   # 
   # For more information take a look at Spec::Runner::Configuration and Spec::Runner
+  include Webrat::Methods
+  config.include(Webrat::Matchers, :type => :controller)
+  config.include(Webrat::Matchers, :type => :helper)
+  config.include(Webrat::Matchers, :type => :view)
 end
