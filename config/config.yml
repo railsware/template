@@ -1,0 +1,12 @@
+development:
+    application_name: template
+    perform_authentication: true
+test:
+    application_name: template
+    perform_authentication: true
+production:
+    application_name: template
+    perform_authentication: true
+staging:
+    application_name: template
+    perform_authentication: true
