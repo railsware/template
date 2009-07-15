@@ -30,6 +30,8 @@ Rails::Initializer.run do |config|
   config.gem "be9-acl9", 
              :lib => "acl9",
              :source => "http://gems.github.com" 
+
+  config.gem "newrelic_rpm"
   # config.gem "rmagick", :lib => 'RMagick'
   # config.gem 'authlogic', :source => 'http://gems.github.com'
   # config.gem 'thoughtbot-paperclip', :lib => 'paperclip', :source => 'http://gems.github.com'
