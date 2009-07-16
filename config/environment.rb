@@ -23,8 +23,7 @@ Rails::Initializer.run do |config|
              :lib => "sqlite3"
   config.gem 'mislav-will_paginate',
              :lib => 'will_paginate', 
-             :source => 'http://gems.github.com',
-             :version => '~> 2.2.3'
+             :source => 'http://gems.github.com'
   config.gem 'authlogic'
   
   config.gem "be9-acl9", 
