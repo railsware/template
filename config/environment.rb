@@ -19,20 +19,13 @@ Rails::Initializer.run do |config|
   # config.gem "hpricot", :version => '0.6', :source => "http://code.whytheluckystiff.net"
   # config.gem "aws-s3", :lib => "aws/s3"
 
-  config.gem "sqlite3-ruby", 
-             :lib => "sqlite3"
-  config.gem 'mislav-will_paginate',
-             :lib => 'will_paginate', 
-             :source => 'http://gems.github.com'
+  config.gem 'will_paginate'
   config.gem 'authlogic'
-  
-  config.gem "be9-acl9", 
-             :lib => "acl9",
-             :source => "http://gems.github.com" 
-
+  config.gem "be9-acl9", :lib => "acl9", :source => "http://gems.github.com" 
+    
+  config.gem "sqlite3-ruby", :lib => "sqlite3"
   config.gem "newrelic_rpm"
   # config.gem "rmagick", :lib => 'RMagick'
-  # config.gem 'authlogic', :source => 'http://gems.github.com'
   # config.gem 'thoughtbot-paperclip', :lib => 'paperclip', :source => 'http://gems.github.com'
   # config.gem 'mime-types', :lib => 'mime/types'
 
