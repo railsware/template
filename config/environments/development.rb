@@ -26,6 +26,3 @@ config.action_mailer.smtp_settings = {
   :user_name => "user",
   :password => "secret"
 }
-
-#Add Rack::Bug middleware
-config.middleware.use "Rack::Bug"
