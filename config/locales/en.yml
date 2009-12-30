@@ -3,3 +3,139 @@
 
 en:
   hello: "Hello world"
+  password_resets:
+    instructions_have_been_mailed: "Instructions to reset your password have been emailed to you. Please check your email."
+    no_user_found: "No user was found with that email address"
+    token_sorry_no_account: "We're sorry, but we could not locate your account. If you are having issues try copying and pasting the URL from your email into your browser or restarting the reset password process."
+    password_updated: "Password successfully updated"
+    email_cant_be_blank: "Email can't be blank"
+    email_in_wrong_format: "Email is in wrong format"
+  challenge_model:
+    max_bid_amount_error: "is bigger than allowed "
+
+  application_controller:
+    you_must_be_logged: "You must be logged in to access this page"
+    you_must_be_logged_out: "You must be logged out in to access this page"
+  admin_base_controller:
+    access_denied: "Access denied. Try to log in first."
+  messages_controller:
+    unable_to_send: "Message was unable to sent message"
+    please_fill_all_fields: "Please fill all fields"
+    has_been_sent: "Message \"{{subject}}\" has been sent to {{recipient}}"
+    has_been_sent_reply: "Reply to the \"{{subject}}\" has been sent to {{recipient}}"
+    no_such_user: "There is no such user!"
+    
+  proposals_controller:
+    has_been_sent: "Proposal has been sent"
+    cant_send: "Can't sent proposal"
+    message_cannot_be_created: "Message cannot be created due to system error"
+  user_controller:
+    account_registered: "Account registered!"
+    account_updated: "Account updated!"
+    password_change_succeed: "Yooohoo, change new password"
+    password_change_failed: "Password changing error"
+    twitter_update_failed: "Twitter info update failed"
+    update_consoles_failed: "Games saving error, sorry"
+    update_consoles_secceed: "Woohoo, updated list of your games"
+    enter_game_tag: "You should enter at least one (PS3 or XBOX) console tag"
+    xbox_already_taken: "This xbox console tag already been taken. Choose another"
+    ps_already_taken: "This PS3 console tag already been taken. Choose another"
+    f2p_error:
+      unresolved_challenge: "Can't switch Free2Play status due to unresolved proposal or challenges"
+  user_sessions:
+    enter_both_login_and_password: "We need to know your login and password so that we can let you in. Don't be shy :)"
+  twitter_controller:
+    twitter_assigned: "You successfully associated your twitter account with a Game Set Cash user"
+    twitter_assign_failed: "Failed to assign your twitter account with a Game Set Cash user"
+  diff_messages:
+    you_won: "Grats! You won"
+    you_lost: "Fail! You lost!"
+    social_message:
+      site_url: "gamesetcash.com"
+      start:
+        template1: "{current_player} challenged {opponent} for {amount} in {game} on {console} {site_url}"
+        template2: "{current_player} challenged {opponent} for {amount} in {game} on {console} {site_url}"
+        template3: "{current_player} challenged {opponent} for {amount} in {game} on {console} {site_url}"
+      win:
+        template1: "{current_player} defeated {opponent} for {amount} in {game} on {console} {site_url}"
+        template2: "{current_player} defeated {opponent} for {amount} in {game} on {console} {site_url}"
+        template3: "{current_player} defeated {opponent} for {amount} in {game} on {console} {site_url}"
+      lose:
+        template1: "{current_player} was defeated by {opponent} for {amount} in {game} on {console} {site_url}"
+        template2: "{current_player} was defeated by {opponent} for {amount} in {game} on {console} {site_url}"
+        template3: "{current_player} was defeated by {opponent} for {amount} in {game} on {console} {site_url}"
+  bid_messages:
+    bid_below_zero_or_equal: "Your bid is below or equal 0"
+    bid_greater_than_max: "You bid is greater than max allowed bid  - {bid}"
+    bid_cannot_be_greater: "You or your opponent is newbie and unranked player, so bid cannot be greater than {bid}"
+    bid_is_bigger_than_money: "Your bid is bigger than yours or your opponents balance"
+    bid_is_bigger_max_f2p: "Your bid is bigger than max allowed in Free 2 Play mode: {bid} points"
+  challenge_messages:
+    message_subject: "Challenge results for {{gametitle}}: {{firstscore}}-{{secondscore}}"
+    message_body_won: "Grats! You won the challenge against {{loosernick}} in {{gametitle}} with score {{firstscore}}-{{secondscore}}"
+    message_body_lost: "Oops! Seems like you lost to {{winnernick}} in {{gametitle}} with score {{firstscore}}-{{secondscore}}"
+    message_draw_subject: "Challenge results for {{gametitle}}: draw"
+    message_body_draw: "There was a draw between you and {{opponent}}. You need to replay a game. Your balances will be refunded."
+    mutual_quit_no: "{{name}} don't wish to mutually quit the challenge. Sorry"
+    mutual_quit_success: "You have successfully mutual quit the challenge with {{name}}. Your balance is refunded less the standard rake. Please feel free to create a new challenge"
+    free_mutual_quit_success: "You have successfully mutual quit the challenge with {{name}}. Your balance is refunded. Please feel free to create a new challenge"
+  challenge_message_on_show:
+    title: "Challenge is finished!"
+    score: "{{firstscore}} - {{secondscore}}"
+    score_draw: "Draw"
+    message_lost: "You lost against {{nick}}"
+    message_won: "You won against {{nick}}"
+    message_draw: "You played in draw with {{nick}}"
+    stats: "{{rank}} point to rank<br/>{{money}} to balance"
+    stats_draw: "Your funds will be refunded soon"
+  cashier_controller:
+    success: "You successfully performed {{action}} for ${{amount}}"
+    failure: "Failed to performed {{action}} for ${{amount}}"
+    error: "Cannot perform {{action}} because of wrong credit card details. Please fill the right and resubmit"
+    amount_error: "Cannot perform {{action}} because of invalid amount. Please fill the right and resubmit"
+    low_balance: "Oops. You don't have enough money to challenge other people. Please deposit some and battle on!"
+    pending_withdraw: "Your withdraw operation is pending. It can take up to few days to process. We will come back to notify about it's finish"
+  tournament_events:
+    accepted:
+      subject: "Welcome to tournament: {{tournament_title}}!"
+      body: "You will participate in tournament: {{tournament_title}} on {{start_date}}, playing {{game_title}} on {{console_type}}. \n See details on \"My Tournaments\" tab. \n {{tournament_link}}"
+    rejected:
+      subject:  "Can't participate in tournament: {{tournament_title}}!"
+      body: "Sorry, can't participate in your tournament: {{tournament_title}}. Maybe next time. Thank you for the invite"
+    reminder:
+      subject: "Tournament reminder: {{tournament_title}} !"
+      body: "You participate in tournament {{tournament_title}} that is about to start in {{start_time}}, playing {{game_title}} on {{console_type}}. \n Go inside tournament: {{tournament_link}}"
+    cancelled:
+      not_enough_players:
+        subject: "Tournament {{tournament_title}} was cancelled"
+        body: "Tournament {{tournament_title}} was cancelled, as only {{players_count}} players confirmed participation (minimal requirement is 4 players). Entry fee will be refunded (minus standard GSC rake 14%)"
+        free_body: "Tournament {{tournament_title}} was cancelled, as only {{players_count}} players confirmed participation (minimal requirement is 4 players). Entry fee will be refunded"
+      no_winner:
+        subject: "Tournament {{tournament_title}} was cancelled"
+        body: "Tournament {{tournament_title}} was cancelled, as winner is not defined. Entry fee will be refunded (minus standard GSC rake 14%)"
+        body: "Tournament {{tournament_title}} was cancelled, as winner is not defined. Entry fee will be refunded"
+  tournaments:
+    created: "Tournament {{title}} has been created"
+    warmed_up: "Please confirm your tournament attendance by clicking My tournament tab and selecting the tournament you have joined"
+    next_round: "{{round_title}} of tournament has started"
+    started: "Tournament has started. Enter your challenge"
+    finished: "Tournament {{title}} finished. Congratulate the winners"
+  tournament_invitation:
+    sent: "Invitations are sent"
+    internal:
+      subject: "Take part in new tournament {{tournament_title}}!"
+      body: "You are invited to participate in tournament: {{tournament_title}} on {{start_date}}, playing {{game_title}} ({{console_type}}). \n See details on {{tournament_url}}"
+  admin:
+    withdraw:
+      confirm: "Order {{order_id}} for ${{amount}} was confirmed"
+      cancel: "Order {{order_id}} for ${{amount}} was cancelled"
+  bonus_points_messages:
+    avatar_uploaded: "You upload your avatar first time. We give you {points} bonus points"
+    activated_facebook: "You activate facebook. We give you {points} bonus points"
+    activated_twitter: "You activate twitter. We give you {points} bonus points"
+    play_draw_challenge: "You played challenge in draw. We give you {points} bonus points"
+    first_deposited: "You deposited money first time. We give you {points} bonus points"
+    filled_profile: "You completely fill your profile. We give you {points} bonus points"
+    first_played_on_console: "You played on new console first time. We give you {points} bonus points"
+    play_games: "You played your {games} game. We give you {points} bonus points"
+    tournament_finished: "You tournament already finished. We give you {points} bonus points"

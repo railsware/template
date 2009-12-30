@@ -1,12 +1,16 @@
+common: &common_settings
+    application_name: template
+    perform_authentication: true
+
 development:
-    application_name: template
-    perform_authentication: true
+    <<: *common_settings
+
 test:
-    application_name: template
-    perform_authentication: true
+    <<: *common_settings
+    perform_authentication: false
+
 production:
-    application_name: template
-    perform_authentication: true
+    <<: *common_settings
+
 staging:
-    application_name: template
-    perform_authentication: true
+    <<: *common_settings
