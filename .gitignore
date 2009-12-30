@@ -9,3 +9,7 @@ doc/app
 db/*sqlite3
 coverage/**/*
 public/javascripts/less_routes.js
+config/initializers/local_initializer.rb
+.idea
+.project
+public/system
