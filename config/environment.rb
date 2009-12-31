@@ -21,7 +21,7 @@ Rails::Initializer.run do |config|
 
   config.gem 'mislav-will_paginate', :lib => 'will_paginate', :version => '~> 2.3.11', :source => 'http://gems.github.com'
   config.gem 'authlogic'
-  config.gem "be9-acl9", :lib => "acl9", :source => "http://gems.github.com" 
+  config.gem "acl9", :source => "http://gemcutter.org", :lib => "acl9"
   config.gem "newrelic_rpm"
   config.gem 'aasm'
   #config.gem "cldwalker-hirb", :lib => "hirb", :source => "http://gems.github.com"
