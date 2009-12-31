@@ -1,9 +1,0 @@
-admin_user:
-    login: admin
-    email: admin@railsware.com
-    #password: admin12345
-    #password_confirmation: admin12345
-    crypted_password: c981bb3eccbcf5183d61285dc98839aa05979110a6e78159d8502f45c0106b20ecd8e51b1157ae896bc0b836db8b4fa978aa142cea85d05c39d9256fee267309
-    password_salt: YYLZIJlIXsG6OEZKCy0w
-    persistence_token: 452741a3d2b79863f93c2ef9f3db32c877fce26c5767583cc1ae093e349feb3fe8e4aabc51d84c91399000fb46a92a43eadaf0e8940eef55d920cd28c035a9c7
-    roles: admin_role
