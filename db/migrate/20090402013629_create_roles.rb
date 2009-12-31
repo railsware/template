@@ -1,25 +1,22 @@
 class CreateRoles < ActiveRecord::Migration
   def self.up
-    create_table :roles do |t|
-      t.string   "name",              :limit => 40
-      t.string   "authorizable_type", :limit => 40
-      t.integer  "authorizable_id" 
-      t.datetime "created_at" 
-      t.datetime "updated_at"
-
+    create_table :roles, :force => true do |t|
+      t.string   :name,              :limit => 40
+      t.string   :authorizable_type, :limit => 40
+      t.integer  :authorizable_id
       t.timestamps
     end
-    
-    create_table 'roles_users', :id => false, :force => true do |t|
-      t.integer  "user_id" 
-      t.integer  "role_id" 
-      t.datetime "created_at" 
-      t.datetime "updated_at" 
-    end
+    add_index :roles, :name
+    add_index :roles, :authorizable_id
+    add_index :roles, :authorizable_type
+    add_index :roles, [:name, :authorizable_id, :authorizable_type], :unique => true
   end
-  
+
   def self.down
+    remove_index :roles, [:name, :authorizable_id, :authorizable_type]
+    remove_index :roles, :authorizable_type
+    remove_index :roles, :authorizable_id
+    remove_index :roles, :name
     drop_table :roles
-    drop_table :roles_users
   end
 end
