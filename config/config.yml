@@ -1,6 +1,7 @@
 common: &common_settings
     application_name: template
     perform_authentication: true
+    consecutive_failed_logins_limit: 50
 
 development:
     <<: *common_settings

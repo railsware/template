@@ -1,0 +1,43 @@
+<h1><%#= options[:app_name] %>Web App</h1>
+<div class="block" id="block-login">
+  <h2>Login Box</h2>        
+  <div class="content login">
+    <div class="flash">
+      <% flash.each do |type, message| %>
+      <div class="message <%= type %>">
+        <p><%= message %></p>
+      </div>
+      <% end %>
+    </div>
+<% form_for @user_session, :url => user_session_path, :html => { :class => 'form login' } do |us| %>    
+    <%#= us.error_messages %>  
+	<div class="group">
+        <div class="left">
+			<label class="label right">Login</label>
+			<%= error_message_on :user_session, :login, :css_class => "error" %>
+        </div>
+        <div class="right">
+          <%= us.text_field :login, :class => 'text_field' %>
+        </div>              
+        <div class="clear"></div>
+      </div>
+      <div class="group">
+        <div class="left">
+			<label class="label right">Password</label>
+			<%= error_message_on :user_session, :password, :css_class => "error" %>
+        </div>
+        <div class="right">
+          <%= us.password_field :password, :class => 'text_field' %>
+        </div>              
+        <div class="clear"></div>
+      </div>
+      <div class="group navform">
+        <div class="right">
+			<%= submit_tag "Sign in", :class => "button" %>
+        </div>
+        <div class="clear"></div>
+      </div>            
+    <% end %>
+  </div>
+
+</div>
