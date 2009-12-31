@@ -15,10 +15,6 @@ Rails::Initializer.run do |config|
   # config.load_paths += %W( #{RAILS_ROOT}/extras )
 
   # Specify gems that this application depends on and have them installed with rake gems:install
-  # config.gem "bj"
-  # config.gem "hpricot", :version => '0.6', :source => "http://code.whytheluckystiff.net"
-  # config.gem "aws-s3", :lib => "aws/s3"
-
   config.gem 'mislav-will_paginate', :lib => 'will_paginate', :version => '~> 2.3.11', :source => 'http://gems.github.com'
   config.gem 'authlogic'
   config.gem "acl9", :source => "http://gemcutter.org", :lib => "acl9"
@@ -26,10 +22,12 @@ Rails::Initializer.run do |config|
   config.gem 'aasm'
   config.gem 'settingslogic'
   config.gem "formtastic", :source => "http://gemcutter.org"
-  #config.gem "cldwalker-hirb", :lib => "hirb", :source => "http://gems.github.com"
-  #config.gem "sqlite3-ruby", :lib => "sqlite3"
+  # config.gem "cldwalker-hirb", :lib => "hirb", :source => "http://gems.github.com"
+  # config.gem "bj"
+  # config.gem "hpricot", :version => '0.6', :source => "http://code.whytheluckystiff.net"
+  # config.gem "aws-s3", :lib => "aws/s3"
   # config.gem "rmagick", :lib => 'RMagick'
-  # config.gem 'thoughtbot-paperclip', :lib => 'paperclip', :source => 'http://gems.github.com'
+  # config.gem "paperclip", :source => "http://gemcutter.org"
   # config.gem 'mime-types', :lib => 'mime/types'
 
   
