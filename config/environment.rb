@@ -25,6 +25,7 @@ Rails::Initializer.run do |config|
   config.gem "newrelic_rpm"
   config.gem 'aasm'
   config.gem 'settingslogic'
+  config.gem "formtastic", :source => "http://gemcutter.org"
   #config.gem "cldwalker-hirb", :lib => "hirb", :source => "http://gems.github.com"
   #config.gem "sqlite3-ruby", :lib => "sqlite3"
   # config.gem "rmagick", :lib => 'RMagick'
