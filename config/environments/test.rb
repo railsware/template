@@ -31,7 +31,7 @@ config.action_mailer.delivery_method = :test
 config.gem "rspec",            :lib => false
 config.gem "rspec-rails",      :lib => false
 config.gem "remarkable_rails", :lib => false
-config.gem 'thoughtbot-factory_girl',  :lib => false, :source => 'http://gems.github.com'  
+config.gem "factory_girl", :source => "http://gemcutter.org"
 config.gem 'mocha', :version => '>= 0.9.5'
 config.gem 'nokogiri' #required by webrat
 config.gem 'webrat'
