@@ -15,6 +15,7 @@ Rails::Initializer.run do |config|
   # config.load_paths += %W( #{RAILS_ROOT}/extras )
 
   # Specify gems that this application depends on and have them installed with rake gems:install
+  config.gem 'hoptoad_notifier'
   config.gem 'mislav-will_paginate', :lib => 'will_paginate', :version => '~> 2.3.11', :source => 'http://gems.github.com'
   config.gem 'authlogic'
   config.gem "acl9", :source => "http://gemcutter.org", :lib => "acl9"
