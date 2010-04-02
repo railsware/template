@@ -1,8 +1,7 @@
 require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
 
 describe UsersController do
-  #controller_name :users
-  
+
   before(:each) do
     logout
   end
