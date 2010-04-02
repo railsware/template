@@ -10,10 +10,11 @@ class UsersController < ApplicationController
   def create
     @user = User.new(params[:user])
     if @user.save
-      flash[:notice] = "Account registered!"
+      flash[:notice] = I18n.translate "flashes.account_created"
       redirect_back_or_default root_path
     else
-      render :action => :new
+      flash[:error] = I18n.translate "flashes.account_create_update_error"
+      redirect_to new_user_path
     end
   end
 
@@ -28,10 +29,11 @@ class UsersController < ApplicationController
   def update
     @user = @current_user # makes our views "cleaner" and more consistent
     if @user.update_attributes(params[:user])
-      flash[:notice] = "Account updated!"
-      redirect_to account_url
+      flash[:notice] = I18n.translate "flashes.account_created"
+      redirect_back_or_default user_path(@user)
     else
-      render :action => :edit
+      flash[:error] = I18n.translate "flashes.account_create_update_error"
+      redirect_to edit_user_path(@user)
     end
   end
 end

@@ -13,7 +13,7 @@
         <ul>
           <li><a href="#">Profile</a></li>
           <li><a href="#">Settings</a></li>
-          <li><%= link_to 'logout', user_session_path, :method => :delete %></li>
+          <li><%= link_to 'logout', logout_path %></li>
 			<% if @current_user %>
 			<li>[ <%= link_to @current_user.login, admin_user_path(@current_user) %> ]</li>
 			<% end %>

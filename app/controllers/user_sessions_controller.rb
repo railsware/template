@@ -9,16 +9,17 @@ class UserSessionsController < ApplicationController
   def create
     @user_session = UserSession.new(params[:user_session])
     if @user_session.save
-      flash[:notice] = I18n.translate "flashes.user_session.created"
-      redirect_to root_url
+      flash[:notice] = I18n.translate "flashes.logged_in"
+      redirect_to root_path
     else
-      render :action => :new
+      flash[:error] = I18n.translate "flashes.login_error"
+      redirect_to login_path
     end
   end
 
   def destroy
     current_user_session.destroy
     flash[:notice] = I18n.translate "flashes.user_session.destroyed"
-    redirect_back_or_default root_url
+    redirect_to root_url
   end
 end

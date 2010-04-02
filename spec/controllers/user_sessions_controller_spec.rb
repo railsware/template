@@ -49,7 +49,7 @@ describe UserSessionsController do
         post :create
       end
       
-      should_redirect_to { root_url }
+      should_redirect_to { root_path }
     end
     
     describe 'supplying invalid credentials' do
@@ -59,8 +59,8 @@ describe UserSessionsController do
         post :create
       end
       
-      should_respond_with :success
-      should_render_template :new
+      should_respond_with :redirect
+      should_redirect_to { login_path }
     end
   end
 end
