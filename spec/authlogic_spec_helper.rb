@@ -7,7 +7,8 @@ def user_session
   @user_session = mock('user')
   # session returns current user
   @user_session.stubs(:user).returns(current_user)  
-  @user_session.stubs(:record)  
+  @user_session.stubs(:record)
+  @user_session.stubs(:destroy) 
   @user_session  
 end  
 

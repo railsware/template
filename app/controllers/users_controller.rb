@@ -11,7 +11,7 @@ class UsersController < ApplicationController
     @user = User.new(params[:user])
     if @user.save
       flash[:notice] = I18n.translate "flashes.account_created"
-      redirect_back_or_default root_path
+      redirect_to root_path
     else
       flash[:error] = I18n.translate "flashes.account_create_update_error"
       redirect_to new_user_path
@@ -30,7 +30,7 @@ class UsersController < ApplicationController
     @user = @current_user # makes our views "cleaner" and more consistent
     if @user.update_attributes(params[:user])
       flash[:notice] = I18n.translate "flashes.account_created"
-      redirect_back_or_default user_path(@user)
+      redirect_to user_path(@user)
     else
       flash[:error] = I18n.translate "flashes.account_create_update_error"
       redirect_to edit_user_path(@user)

@@ -63,4 +63,19 @@ describe UserSessionsController do
       should_redirect_to { login_path }
     end
   end
+  
+  describe "logging out" do
+    before(:each) do
+      login
+      post :destroy
+    end
+    
+    it "should redirect user to the homepage" do
+      response.should redirect_to root_path
+    end
+    
+    it "should notice user that he/she is logged out" do
+      flash[:notice].should_not be_nil
+    end
+  end
 end

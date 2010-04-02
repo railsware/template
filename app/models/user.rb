@@ -9,6 +9,13 @@ class User < ActiveRecord::Base
   #will_paginate defaults
   cattr_reader :per_page
   @@per_page = 10
+  
+  validates_presence_of :email
+  validates_presence_of :login
+  validates_presence_of :password, :on => :create
+  validates_presence_of :password_confirmation, :on => :create
+  validates_length_of :password, :within => 4..30, :on => :create
+  validates_length_of :login, :within => 4..30
 end
 
 # == Schema Information
