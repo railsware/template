@@ -1,4 +1,3 @@
-<h1><%#= options[:app_name] %></h1>
 <div class="block" id="block-signup">
   <h2>Sign up</h2>        
   <div class="content">
@@ -10,11 +9,11 @@
       <% end %>
     </div>
     <% form_for @user, :url => users_path, :html => { :class => 'form' } do |f| %>
-<%#= f.error_messages %>      
-<div class="group">
+    <%#= f.error_messages %>      
+    <div class="group">
         <div class="left">
-			<label class="label">Login</label>
-			<%= error_message_on :user, :login, :css_class => "error" %>
+          <%= label_tag :login, "Login", :class => "label right" %>
+          <%= error_message_on :user, :login, :css_class => "error" %>
         </div>
         <div class="right">
           <%= f.text_field :login, :class => 'text_field' %>
@@ -23,8 +22,8 @@
       </div>
       <div class="group">
         <div class="left">
-			<label class="label">Email</label>
-			<%= error_message_on :user, :email, :css_class => "error" %>
+          <%= label_tag :email, "E-mail", :class => "label right" %>
+          <%= error_message_on :user, :email, :css_class => "error" %>
         </div>
         <div class="right">
           <%= f.text_field :email, :class => 'text_field' %>
@@ -33,8 +32,8 @@
       </div>
       <div class="group">
         <div class="left">
-			<label class="label">Password</label>
-			<%= error_message_on :user, :password, :css_class => "error" %>
+          <%= label_tag :password, "Password", :class => "label right" %>
+          <%= error_message_on :user, :password, :css_class => "error" %>
         </div>
         <div class="right">
           <%= f.password_field :password, :class => 'text_field' %>
@@ -44,8 +43,8 @@
       
       <div class="group">
         <div class="left">
-			<label class="label">Password</label>
-			<%= error_message_on :user, :password_confirmation, :css_class => "error" %>
+          <%= label_tag :password_confirmation, "Password confirmation", :class => "label right" %>
+          <%= error_message_on :user, :password_confirmation, :css_class => "error" %>
         </div>
         <div class="right">
           <%= f.password_field :password_confirmation, :class => 'text_field' %>
@@ -54,7 +53,7 @@
       </div>
       
       <div class="group navform">
-        <input type="submit" class="button" value="Sign up" />
+        <%= submit_tag "Sign up", :class => "button" %>
       </div>
     <% end %>
   </div>

@@ -9,12 +9,11 @@
   <div class="content">          
     <h2 class="title">All users</h2>
     <div class="inner">
-      <% form_tag "", :class => :form do -%>
         <table class="table">
           <tr>             
             <th class="first">ID</th>
             <th>Login</th>
-			<th>Roles</th>
+            <th>Roles</th>
             <th>Created at</th>
             <th class="last">&nbsp;</th>
           </tr>
@@ -24,26 +23,22 @@
               <%= user.id %>
             </td>
             <td>
-              <%= link_to user.login, admin_user_path(user) %>
+              <%= user.login %>
             </td>
-			<td>
-				<% unless user.roles.empty? %>
-				<ul>
-				<% user.roles.each do |role| %>
-				<li><%= role.name %></li>
-				<% end -%>
-				</ul>
-				<% else %>&nbsp;<% end %>
-			</td>
+            <td>
+            <% unless user.roles.empty? %>
+            <ul>
+              <% user.roles.each do |role| %>
+              <li><%= role.name %></li>
+              <% end -%>
+            </ul>
+            <% else %>&nbsp;<% end %>
+            </td>
             <td>
               <%= user.created_at %>
             </td>
-            <td class="last">
-              <%= link_to 'show', admin_user_path(user) %> |
-              <%= link_to 'edit', edit_admin_user_path(user) %> |
-              <%= link_to 'destroy', admin_user_path(user), :method => :delete, :confirm => 'Are you sure?' %>
-            </td>
-          </tr>          
+            <td class="last">&nbsp;</td>
+          </tr>
           <% end -%>
         </table>
         <div class="actions-bar">
@@ -52,7 +47,6 @@
           <%= will_paginate @users  %>
           <div class="clear"></div>
         </div>
-      <% end -%>
     </div>
   </div>
 </div>
