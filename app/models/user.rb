@@ -18,6 +18,8 @@ class User < ActiveRecord::Base
   validates_length_of :login, :within => 4..30
 end
 
+
+
 # == Schema Information
 #
 # Table name: users

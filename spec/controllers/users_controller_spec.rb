@@ -70,4 +70,16 @@ describe UsersController do
     end
   
   end
+  
+  describe "Anonymous user access" do
+    before(:each) do
+      logout
+    end
+    
+    it "should not allow anonymous users and redirect them to login page" do
+      get :edit
+      response.should redirect_to new_user_session_path
+      flash[:error].should_not be_nil
+    end
+  end
 end

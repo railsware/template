@@ -1,5 +1,11 @@
 module Admin
-  class UserSessionsController < ApplicationController
+  class Admin::UserSessionsController < Admin::BaseController
+    #ACL9 workaround: http://groups.google.com/group/acl9-discuss/browse_thread/thread/c71d057c7626308f
+    skip_before_filter :base_acl
+    access_control  do
+      allow all
+    end
+    
     before_filter :require_no_user, :only => [:new, :create]
     before_filter :require_user, :only => [:destroy, :not_authorized ]
     layout "user_sessions"

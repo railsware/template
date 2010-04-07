@@ -68,12 +68,14 @@ describe Admin::UserSessionsController do
     describe 'supplying invalid credentials' do
       before(:each) do
         logout
-        UserSession.any_instance.expects(:save).returns(false)
-        post :create, :user_session => { :login => current_user.login }
+
       end
       
-      should_respond_with :redirect
-      should_redirect_to { new_admin_user_session_path }
+      it "should redirect to login page if credentials are not valid" do
+        UserSession.any_instance.expects(:save).returns(false)
+        post :create, :user_session => { :login => current_user.login }
+        response.should redirect_to new_admin_user_session_path
+      end
     end
   end
 end

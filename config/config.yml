@@ -8,7 +8,7 @@ development:
 
 test:
     <<: *common_settings
-    perform_authentication: false
+    perform_authentication: true
 
 production:
     <<: *common_settings
