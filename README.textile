@@ -35,7 +35,7 @@ h2. Usage
 * (optional) Place your local configuration (if needed) to _config/initializers/local_initializer.rb_, you can watch _config/initializers/local_initializer.rb.example_ as an example.
 * Set database params in database.yml (like always with Rails)
 * (optional) Change session key/secret in _config/initializers/session_store.rb_
-* Run _sudo rake gems:install_ to install required gems
+* Run _sudo rake gems:install_ and _sudo rake gems:install RAILS_ENV=test_ to install required gems
 * Run _rake db:create_ _rake db:migrate_ and _rake db:seed_ to create and fill development database
 * (optional) If you're using HopToad place its API key in _config/initializers/hoptoad.rb_
 * (optional) Put you license key in _config/newrelic.yml_ if you're using NewRelic in production/staging/etc environments
