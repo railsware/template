@@ -25,8 +25,24 @@ and functions that will call these routes using ajax (uses jQuery or Prototype).
 # "EZ_Where":http://github.com/ezmobius/ez-where - query/conditions builder for ActiveRecord and other ORMS. In other words it is a syntax sugar around ActiveRecord 2.x for doing human-readable advanced ORM requests.
 # "Formtastic":http://github.com/justinfrench/formtastic - a Rails form builder plugin with semantically rich and accessible markup.
 # "Semantic Menu":http://github.com/danielharan/semantic-menu - a plugin to make rails menus easier to write
-# "Foreign Keys":http://github.com/perfectline/foreign_keys - Provides foreign key support for MySQL and PostgreSQL adapters in Rails.
+# "Foreign Key Migrations":http://github.com/perfectline/foreign_keys - Provides foreign key support for MySQL and PostgreSQL adapters in Rails.
 # "AASM":http://github.com/rubyist/aasm - state machines for Ruby classes.
 # Set of "Capistrano":http://www.capify.org/index.php/Capistrano deployment scripts supporting multiple Rails environments (production and staging by default) and optimized for deploying rails apps for Passenger application server.
 
 h2. Usage
+
+* Clone application.
+* (optional) Place your local configuration (if needed) to _config/initializers/local_initializer.rb_, you can watch _config/initializers/local_initializer.rb.example_ as an example.
+* Set database params in database.yml (like always with Rails)
+* (optional) Change session key/secret in _config/initializers/session_store.rb_
+* Run _sudo rake gems:install_ to install required gems
+* Run _rake db:create_ _rake db:migrate_ and _rake db:seed_ to create and fill development database
+* (optional) If you're using HopToad place its API key in _config/initializers/hoptoad.rb_
+* (optional) Put you license key in _config/newrelic.yml_ if you're using NewRelic in production/staging/etc environments
+* Review _config/config.yml_ and _config/locales/en.yml_ to match your application settings.
+
+h2. Requirements
+
+# Ruby v1.8.6 or v1.8.7
+# RubyGems v1.3.6+
+# Rails v2.3.5
